@@ -15,5 +15,3 @@ Below is a selection of my academic and professional writing. More will be added
   [Download PDF](assets/img/Thesis.pdf)
 
 ---
-
-*New publications will be uploaded as they become available.*
