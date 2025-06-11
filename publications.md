@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Below is a selection of my academic and professional writing. More publications will be added soon.
+Below is a selection of my academic and professional writing. More will be added soon.
 
 ---
 
