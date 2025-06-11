@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /blogtemp/
 ---
 
 <h2 style="text-align: center; font-size: 2.2em; font-weight: 700; margin-top: 1em;">
