@@ -20,13 +20,13 @@ author: Berke Celikel
 ###############################################
 
 navbar-links:
-  About Me: 
-    - CV: "aboutme"
+  About Me: "aboutme"
+  CV: 
   Social Media:
     - LinkedIn: "https://www.linkedin.com/in/berke-celikel/"
   Publications: ""
-  Downloads: 
-  Test: 
+  Blog: 
+  Podcast: 
 
 ################
 # --- Logo --- #
