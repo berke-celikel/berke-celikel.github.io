@@ -4,8 +4,12 @@ title: Podcast
 permalink: /podcast/
 ---
 
-> **Coming Soon**  
-> The podcast is in development. Stay tuned.
+<h2 style="text-align: center; font-size: 2.2em; font-weight: 700; margin-top: 1em;">
+  Coming Soon
+</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  The podcast is in development. Stay tuned.
+</p>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 2em;">
   
