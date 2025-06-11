@@ -12,7 +12,7 @@ Below is a selection of my academic and professional writing. More publications 
 
 - **Economic Analysis of the EU Retail Investment Strategy**  
   *Thesis, University of Bonn* — with distinction  
-  [Download PDF](/assets/pdfs/eu-retail-investment-strategy.pdf)
+  [Download PDF](/assets/img/Thesis.pdf)
 
 ---
 
