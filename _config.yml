@@ -22,11 +22,9 @@ author: Berke Celikel
 navbar-links:
   About Me: "aboutme"
   CV: ""
-  Social Media:
-    - LinkedIn: "https://www.linkedin.com/in/berke-celikel/"
-  Publications: ""
   Blog: 
-  Podcast: 
+  Podcast:
+  Publications: 
 
 ################
 # --- Logo --- #
