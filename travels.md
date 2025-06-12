@@ -3,7 +3,7 @@ layout: page
 title: Travels
 permalink: /travels/
 ---
-
+Coming soon: Personal travel notes, local gems, hidden spots, and go-to recommendations from cities I’ve explored.
 <h2 style="text-align: center; font-size: 1.5em; font-weight: 700; margin-top: 2em; margin-bottom: 1em;">
   Visited Countries
 </h2>
