@@ -8,6 +8,9 @@
 ############################
 # --- Required options --- #
 ############################
+# (optional, for config reference)
+read_time:
+  words_per_minute: 200
 
 theme: jekyll-theme-minimal
 markdown: kramdown
