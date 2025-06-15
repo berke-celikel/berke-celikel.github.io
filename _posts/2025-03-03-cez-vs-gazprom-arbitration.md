@@ -2,8 +2,8 @@
 layout: post
 title: "Commercial Deals Under Pressure: ČEZ’s ICC Win Against Gazprom"
 subtitle: "A key post-crisis arbitration highlights how force majeure is tested under international law"
-cover-img: /assets/img/gazprom.jpeg
-thumbnail-img: /assets/img/gazprom.jpeg
+cover-img: assets/img/gazprom.jpeg
+thumbnail-img: assets/img/gazprom.jpeg
 excerpt: "ČEZ’s arbitration victory over Gazprom reveals how international tribunals handle war-related supply disruptions. Here's what this high-profile case means for contract law, force majeure, and future energy disputes."
 tags: [Energy, Arbitration, Force Majeure, Gazprom, ICC, International Law]
 author: Berke Celikel
