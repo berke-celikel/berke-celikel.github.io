@@ -1,11 +1,11 @@
 .avatar-img {
   width: 60px;
   height: 60px;
-  aspect-ratio: 1 / 1;
   border-radius: 50%;
-  object-fit: contain;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
   background-color: white;
   padding: 4px;
-  display: block;
   box-sizing: border-box;
 }
