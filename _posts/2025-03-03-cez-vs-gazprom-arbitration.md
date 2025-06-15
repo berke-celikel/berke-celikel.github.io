@@ -40,11 +40,14 @@ The ICC tribunal, sitting in Switzerland, weighed the contract’s terms, the ap
 ## What Counts as Force Majeure?
 
 The Gazprom case underscores how tribunals interpret **force majeure** in international contracts. Most clauses require four conditions to be met:
-
-1. **The event must be defined** in the contract (e.g., war, natural disaster, or embargo).
-2. **The event must directly prevent performance**, not just make it more difficult or costly.
-3. **The affected party must act in good faith** and mitigate where possible.
-4. **Proper notice** must be given—promptly and with sufficient detail.
+	**1.	The Event Falls Within the Clause**
+The disruption must be explicitly covered by the force majeure provision in the contract. Typical examples include war, embargoes, acts of government, or natural disasters. If the contract is silent or vague, courts and arbitral tribunals will interpret the scope narrowly.
+	**2.	Performance Is Objectively Prevented**
+The event must make it impossible (not merely more expensive or commercially impractical) to perform the contractual obligations. A drop in profit or logistical hardship is generally not enough. The standard is often one of physical or legal impossibility.
+	**3.	The Affected Party Acted Diligently**
+Parties invoking force majeure must act in good faith. This includes making reasonable efforts to avoid or overcome the consequences of the event. Passive or opportunistic behavior can undermine the claim.
+	**4.	Timely and Proper Notice Was Given**
+Most clauses require the invoking party to notify the counterparty promptly and in writing, often within a defined time frame. The notice should include details about the event, its impact on performance, and any mitigating actions taken.
 
 In this case, the tribunal concluded that Gazprom’s **arguments were insufficient**. While war is a recognised force majeure event, the **link between the conflict and Gazprom’s non-performance** was deemed **too indirect and inadequately substantiated** (ICC Reporter, 2025). The company also **failed to prove it had explored reasonable alternatives** or taken all steps to minimise disruption.
 
