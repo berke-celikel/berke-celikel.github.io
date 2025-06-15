@@ -85,15 +85,13 @@ As more disputes arise from the global energy shock, this case sets a precedent:
 ---
 
 ## References
+Global Arbitration Review (2025) ‘Czech energy group declares win against Gazprom’, 26 February. [Available at](https://globalarbitrationreview.com/article/czech-energy-group-declares-win-against-gazprom) (Accessed: 3 March 2025).
 
-ICC Arbitration (2025) *ČEZ v. Gazprom Export: Final Award Summary*, ICC Case No. 23456. [Summary accessed 3 March 2025].
+ICC Reporter (2025) ‘ICC tribunal awards ČEZ damages over Russian gas shortfall’, International Arbitration Monitor, March. [Available at](https://arbitrationmonitor.com/gazprom-suffers-major-arbitration-loss-at-the-icc/) (Accessed: 3 March 2025).
 
-ČEZ Group (2025) *Annual Report 2024: Legal Proceedings and Risk Disclosures*, Prague: ČEZ Investor Relations.
+Reuters (2025) ‘ČEZ wins arbitration against Gazprom’, Reuters, 26 February. [Available at](https://www.reuters.com/business/energy/cez-wins-arbitration-against-gazprom-2025-02-26/) (Accessed: 3 March 2025).
 
-Financial Times (2025) *Czech Utility ČEZ Wins €42m Arbitration Against Gazprom Over War Disruption*, 27 February.
+Reuters (2024) ‘ICC tribunal bans Gazprom from bringing gas dispute to Russian court’, Reuters, 24 May. [Available at](https://www.reuters.com/business/energy/cez-icc-tribunal-bans-gazprom-placing-gas-dispute-russian-court-2024-05-24/) (Accessed: 3 March 2025).
 
-European Commission (2022) *EU Sanctions Against Russia Explained*, 15 March. Available at: https://ec.europa.eu/info [Accessed: 3 March 2025].
+Wikipedia (2025) 2022–2023 Russia–European Union gas dispute. [Available at](https://en.wikipedia.org/wiki/2022–2023_Russia–European_Union_gas_dispute) (Accessed: 3 March 2025).
 
-Reuters (2024) *Gazprom Faces Growing Legal Risks in Europe as Arbitration Cases Mount*, 10 December.
-
----
