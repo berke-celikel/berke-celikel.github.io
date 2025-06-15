@@ -1,4 +1,3 @@
-/* Force avatar size no matter what */
 #avatar, img#avatar {
   width: 200px !important;
   height: 200px !important;
