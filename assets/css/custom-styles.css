@@ -1,7 +1,6 @@
-/* Make avatar image larger */
 #avatar {
-  width: 150px; /* Adjust this value as needed */
-  height: 150px;
+  width: 200px !important;
+  height: 200px !important;
   border-radius: 50%; /* keep it circular */
   object-fit: cover;
 }
