@@ -22,7 +22,11 @@ Here you'll find commentary on landmark cases, treaty interpretation, and evolvi
       {% endif %}
       <div>
         <a href="{{ post.url }}"><strong style="font-size: 1.1em;">{{ post.title }}</strong></a><br />
-        <small>{{ post.date | date: "%B %d, %Y" }}</small><br />
+
+        {% assign words = post.content | number_of_words %}
+        {% assign minutes = words | divided_by:200 %}
+        <small>{{ post.date | date: "%B %d, %Y" }} — 🕒 {{ minutes | ceil }} min read</small><br />
+
         {% if post.excerpt %}
           <p style="margin-top: 5px; margin-bottom: 0;">{{ post.excerpt }}</p>
         {% endif %}
