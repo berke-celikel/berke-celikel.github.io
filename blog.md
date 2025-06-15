@@ -25,7 +25,7 @@ Here you'll find commentary on landmark cases, treaty interpretation, and evolvi
 
         {% assign words = post.content | number_of_words %}
         {% assign minutes = words | divided_by:200 %}
-        <small>{{ post.date | date: "%B %d, %Y" }} — 🕒 {{ minutes | ceil }} min read</small><br />
+        <small>{{ post.date | date: "%B %d, %Y" }} — 📖 Reading time: {{ minutes | ceil }} minutes</small><br />
 
         {% if post.excerpt %}
           <p style="margin-top: 5px; margin-bottom: 0;">{{ post.excerpt }}</p>
