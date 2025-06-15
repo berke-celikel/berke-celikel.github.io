@@ -2,8 +2,8 @@
 layout: post
 title: "Puffins vs Trade: How a Tiny Fish Triggered the First Brexit Arbitration"
 subtitle: "A landmark environmental dispute that tested the legal strength of the UK–EU Trade and Cooperation Agreement"
-cover-img: assets/img/puffin.jpeg
-thumbnail-img: assets/img/puffin.jpeg
+cover-img: /assets/img/puffin.jpeg
+thumbnail-img: /assets/img/puffin.jpeg
 excerpt: "The UK's ban on sand-eel fishing to protect puffins triggered the first legal test of the post-Brexit EU–UK trade deal. Here's how it played out..."
 tags: [Brexit, Trade, Environment, International Law, UK, EU]
 author: Berke Celikel
