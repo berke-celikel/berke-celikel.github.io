@@ -14,20 +14,18 @@ Here you'll find commentary on landmark cases, treaty interpretation, and evolvi
 
 ## Recent Posts
 
-<ul style="padding-left: 0;">
+<ul style="list-style: none; padding: 0;">
   {% for post in site.posts %}
-    <li style="margin-bottom: 2em; list-style: none;">
-      <div style="display: flex; align-items: flex-start;">
-        {% if post.thumbnail-img %}
-          <img src="{{ post.thumbnail-img }}" alt="Thumbnail for {{ post.title }}" style="width: 100px; height: auto; margin-right: 15px; border-radius: 4px;" />
+    <li style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+      {% if post.thumbnail-img %}
+        <img src="{{ post.thumbnail-img }}" alt="Thumbnail for {{ post.title }}" style="width: 120px; height: auto; margin-right: 20px; border-radius: 6px;" />
+      {% endif %}
+      <div>
+        <a href="{{ post.url }}"><strong style="font-size: 1.1em;">{{ post.title }}</strong></a><br />
+        <small>{{ post.date | date: "%B %d, %Y" }}</small><br />
+        {% if post.excerpt %}
+          <p style="margin-top: 6px; margin-bottom: 0;">{{ post.excerpt }}</p>
         {% endif %}
-        <div>
-          <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a><br />
-          <small>{{ post.date | date: "%B %d, %Y" }}</small><br />
-          {% if post.excerpt %}
-            <p style="margin-top: 5px;">{{ post.excerpt }}</p>
-          {% endif %}
-        </div>
       </div>
     </li>
   {% endfor %}
