@@ -1,16 +1,16 @@
-/* Safely enlarge the avatar in navbar */
 .avatar-img {
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   object-fit: cover;
-  transition: all 0.3s ease;
 }
 
-/* Fix container padding to align */
 .avatar-container {
-  padding-left: 10px;
-  padding-right: 10px;
-  display: flex;
-  align-items: center;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.avatar-img-border {
+  box-shadow: 0 0 1px rgba(0,0,0,0.1);
+  border-radius: 50%;
 }
