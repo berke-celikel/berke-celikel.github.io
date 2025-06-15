@@ -1,32 +1,5 @@
 ---
-layout: home
+layout: none
 ---
 
-<div style="width: 100%; margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%);">
-  <div class="home-layout">
-
-    <!-- LEFT SECTION -->
-    <div class="left-side">
-      <h1>Hi, I'm Berke</h1>
-      <p>a legal professional focused on international commercial law and dispute resolution.</p>
-      <img src="/assets/img/my_pic.jpg" alt="Photo of Berke">
-    </div>
-
-    <!-- RIGHT SECTION -->
-    <div class="right-side">
-      {% for post in site.posts limit: 5 %}
-        <div class="post-card">
-          {% if post.thumbnail-img %}
-            <img src="{{ post.thumbnail-img | relative_url }}" alt="{{ post.title }}">
-          {% endif %}
-          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-          {% assign words = post.content | number_of_words %}
-          {% assign minutes = words | divided_by:200 %}
-          <small>{{ post.date | date: "%B %d, %Y" }} — 🕮 {{ minutes | ceil }} min read</small>
-          <p>{{ post.excerpt }}</p>
-        </div>
-      {% endfor %}
-    </div>
-
-  </div>
-</div>
+<h1 style="color: red;">This is the REAL index.html!</h1>
