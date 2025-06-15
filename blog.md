@@ -18,7 +18,9 @@ Here you'll find commentary on landmark cases, treaty interpretation, and evolvi
   {% for post in site.posts %}
     <li style="display: flex; gap: 15px; align-items: flex-start; margin-bottom: 2em;">
       {% if post.thumbnail-img %}
-        <img src="{{ post.thumbnail-img }}" alt="Thumbnail for {{ post.title }}" style="width: 120px; height: auto; border-radius: 6px;" />
+        <img src="{{ post.thumbnail-img | relative_url }}" alt="Thumbnail for {{ post.title }}" style="width: 120px; height: auto; border-radius: 6px;" />
+      {% else %}
+        <img src="/assets/img/default-thumb.jpg" alt="Default thumbnail" style="width: 120px; height: auto; border-radius: 6px;" />
       {% endif %}
       <div>
         <a href="{{ post.url }}"><strong style="font-size: 1.1em;">{{ post.title }}</strong></a><br />
