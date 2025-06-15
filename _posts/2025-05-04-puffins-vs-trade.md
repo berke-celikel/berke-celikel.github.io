@@ -96,14 +96,14 @@ The puffins may not have read the ruling. But thanks to this tribunal, the legal
 
 ## References
 
-European Commission (2024) *EU requests consultations under Trade and Cooperation Agreement over UK’s permanent closure of the sandeel fishery*. Press release, 16 April. Available at: https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_2050/IP_24_2050_EN.pdf (Accessed: 3 May 2025).
+European Commission (2024) *EU requests consultations under Trade and Cooperation Agreement over UK’s permanent closure of the sandeel fishery*. Press release, 16 April. [Available at](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_2050/IP_24_2050_EN.pdf) (Accessed: 3 May 2025).
 
-Marine Management Organisation (2024) *Variation issued: Tuesday 26 March 2024 – Sandeel closure within English waters of ICES Area 4*. GOV.UK. Available at: https://www.gov.uk/government/publications/variation-issued-tuesday-26-march-2024-sandeel-closure-within-english-waters-of-ices-area-4 (Accessed: 3 May 2025).
+Marine Management Organisation (2024) *Variation issued: Tuesday 26 March 2024 – Sandeel closure within English waters of ICES Area 4*. GOV.UK. [Available at](https://www.gov.uk/government/publications/variation-issued-tuesday-26-march-2024-sandeel-closure-within-english-waters-of-ices-area-4) (Accessed: 3 May 2025).
 
-Permanent Court of Arbitration (2025a) *Case Summary: EU v UK – Sandeel Dispute*. Available at: https://pca-cpa.org/en/cases/334/ (Accessed: 3 May 2025).
+Permanent Court of Arbitration (2025a) *Case Summary: EU v UK – Sandeel Dispute*. [Available at](https://pca-cpa.org/en/cases/334/) (Accessed: 3 May 2025).
 
-Permanent Court of Arbitration (2025b) *Final Award in EU–UK Sandeel Arbitration*. 28 April. Available at: https://pcacases.com/web/sendAttach/70467 (Accessed: 3 May 2025).
+Permanent Court of Arbitration (2025b) *Final Award in EU–UK Sandeel Arbitration*. 28 April. [Available at](https://pcacases.com/web/sendAttach/70467) (Accessed: 3 May 2025).
 
-The Guardian (2025) *UK sandeel ban partially upheld despite EU legal challenge*. 2 May. Available at: https://www.theguardian.com/environment/2025/may/02/uk-sand-eel-fishing-ban-despite-eu-legal-challenge (Accessed: 3 May 2025).
+The Guardian (2025) *UK sandeel ban partially upheld despite EU legal challenge*. 2 May. [Available at](https://www.theguardian.com/environment/2025/may/02/uk-sand-eel-fishing-ban-despite-eu-legal-challenge) (Accessed: 3 May 2025).
 
-UK Government (2025) *Response to arbitration tribunal final report: UK‑Sandeel (The European Union v. the United Kingdom of Great Britain and Northern Ireland)*. Cabinet Office & Department for Environment, Food & Rural Affairs, 2 May. Available at: https://www.gov.uk/government/news/response-to-arbitration-tribunal-final-report-uk-sandeel-the-european-union-v-the-united-kingdom-of-great-britain-and-northern-ireland (Accessed: 3 May 2025).
+UK Government (2025) *Response to arbitration tribunal final report: UK‑Sandeel (The European Union v. the United Kingdom of Great Britain and Northern Ireland)*. Cabinet Office & Department for Environment, Food & Rural Affairs, 2 May. [Available at](https://www.gov.uk/government/news/response-to-arbitration-tribunal-final-report-uk-sandeel-the-european-union-v-the-united-kingdom-of-great-britain-and-northern-ireland) (Accessed: 3 May 2025).
