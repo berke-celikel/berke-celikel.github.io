@@ -3,43 +3,101 @@ layout: page
 title: Hi, I’m Berke
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
+<style>
+  .home-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 3rem;
+    align-items: start;
+    margin-top: 2rem;
+  }
 
-  <!-- Left Column: Introduction -->
-  <div style="flex: 1; min-width: 300px;">
-    <h1 style="font-size: 2.5em;">Hi, I’m Berke</h1>
-    <p style="font-size: 1.25em; font-weight: 500;">
+  .intro {
+    padding: 1rem;
+  }
+
+  .intro h1 {
+    font-size: 2.8em;
+    margin-bottom: 0.5em;
+  }
+
+  .intro p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #444;
+  }
+
+  .blog-preview {
+    padding: 1rem;
+  }
+
+  .blog-post {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 2.5em;
+  }
+
+  .blog-post img {
+    width: 110px;
+    height: auto;
+    border-radius: 6px;
+    object-fit: cover;
+  }
+
+  .blog-post h3 {
+    margin: 0;
+    font-size: 1.15em;
+  }
+
+  .blog-post small {
+    color: #777;
+    font-size: 0.85em;
+  }
+
+  @media (max-width: 768px) {
+    .home-container {
+      grid-template-columns: 1fr;
+    }
+
+    .blog-post {
+      flex-direction: column;
+    }
+
+    .blog-post img {
+      width: 100%;
+    }
+  }
+</style>
+
+<div class="home-container">
+
+  <!-- Left: Intro -->
+  <div class="intro">
+    <h1>Hi, I’m Berke</h1>
+    <p>
       a legal professional focused on international commercial law and dispute resolution.
     </p>
-    <!-- Optional: Add a portrait -->
-    <!-- <img src="/assets/img/berke-photo.jpg" alt="Photo of Berke" style="width: 100%; max-width: 300px; border-radius: 10px; margin-top: 1rem;"> -->
   </div>
 
-  <!-- Right Column: Recent Blog Posts -->
-  <div style="flex: 2; min-width: 300px;">
+  <!-- Right: Blog Posts -->
+  <div class="blog-preview">
     <h2>Recent Posts</h2>
-    <ul style="list-style: none; padding-left: 0;">
-      {% for post in site.posts limit:5 %}
-        <li style="display: flex; gap: 15px; align-items: flex-start; margin-bottom: 2em;">
-          {% if post.thumbnail-img %}
-            <img src="{{ post.thumbnail-img | relative_url }}" alt="Thumbnail for {{ post.title }}" style="width: 100px; height: auto; border-radius: 6px;" />
-          {% else %}
-            <img src="/assets/img/default-thumb.jpg" alt="Default thumbnail" style="width: 100px; height: auto; border-radius: 6px;" />
-          {% endif %}
-          <div>
-            <a href="{{ post.url }}"><strong style="font-size: 1.1em;">{{ post.title }}</strong></a><br />
-
-            {% assign words = post.content | number_of_words %}
-            {% assign minutes = words | divided_by:200 %}
-            <small>{{ post.date | date: "%B %d, %Y" }} — 📖 Reading time: {{ minutes | ceil }} minutes</small><br />
-
-            {% if post.excerpt %}
-              <p style="margin-top: 5px; margin-bottom: 0;">{{ post.excerpt }}</p>
-            {% endif %}
-          </div>
-        </li>
-      {% endfor %}
-    </ul>
+    {% for post in site.posts limit: 5 %}
+      <div class="blog-post">
+        {% if post.thumbnail-img %}
+          <img src="{{ post.thumbnail-img | relative_url }}" alt="{{ post.title }} thumbnail">
+        {% else %}
+          <img src="/assets/img/default-thumb.jpg" alt="Default thumbnail">
+        {% endif %}
+        <div>
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          {% assign words = post.content | number_of_words %}
+          {% assign minutes = words | divided_by:200 %}
+          <small>{{ post.date | date: "%B %d, %Y" }} — 🕮 {{ minutes | ceil }} min read</small>
+          <p style="margin-top: 0.5em;">{{ post.excerpt }}</p>
+        </div>
+      </div>
+    {% endfor %}
   </div>
 
 </div>
