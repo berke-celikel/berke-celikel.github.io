@@ -40,6 +40,10 @@ layout: base
       {% endif %}
 
       <div class="blog-post">
+        {% assign words = content | number_of_words %}
+        {% assign minutes = words | divided_by:200 %}
+        <p class="text-muted"><em>🕒 {{ minutes | ceil }} min read</em></p>
+
         {{ content }}
       </div>
 
