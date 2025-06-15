@@ -9,6 +9,9 @@
 # --- Required options --- #
 ############################
 
+theme: jekyll-theme-minimal
+markdown: kramdown
+
 # Name of website
 title: Berke Celikel
 
