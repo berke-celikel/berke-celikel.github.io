@@ -1,97 +1,99 @@
 ---
 layout: post
 title: "Commercial Deals Under Pressure: ČEZ’s ICC Win Against Gazprom"
-subtitle: "A significant arbitration ruling clarifies the limits of force majeure in energy contracts during wartime disruption"
+subtitle: "A key post-crisis arbitration highlights how force majeure is tested under international law"
 cover-img: /assets/img/gazprom.jpeg
 thumbnail-img: /assets/img/gazprom.jpeg
-excerpt: "ČEZ won a €42 million ICC arbitration award against Gazprom over undelivered gas—highlighting how force majeure operates when geopolitical crisis collides with commercial obligation."
-tags: [Arbitration, Energy, International Law, ICC, Czech Republic, Russia, Force Majeure]
+excerpt: "ČEZ’s arbitration victory over Gazprom reveals how international tribunals handle war-related supply disruptions. Here's what this high-profile case means for contract law, force majeure, and future energy disputes."
+tags: [Energy, Arbitration, Force Majeure, Gazprom, ICC, International Law]
 author: Berke Celikel
 ---
 
 ## Commercial Deals Under Pressure: ČEZ’s ICC Win Against Gazprom
 
-In February 2025, Czech energy company **ČEZ** secured a major legal victory at the **International Chamber of Commerce (ICC)**, winning over **€42 million** in damages from Russian gas supplier **Gazprom Export**. The dispute stemmed from **Gazprom’s failure to deliver contracted gas volumes during the 2022–23 European energy crisis**, amid Russia’s invasion of Ukraine and subsequent EU sanctions.
+When Russia’s invasion of Ukraine began in 2022, it triggered not just a geopolitical crisis, but a commercial one. Among the many European companies left scrambling to secure fuel amid plummeting deliveries was **ČEZ**, the Czech Republic’s state-backed utility.
 
-The case is notable not only for its financial outcome, but also for how it tested the **scope of force majeure in commercial contracts**, particularly when geopolitical conflict disrupts long-term obligations. It’s one of the **few successful arbitrations brought by a European buyer against Gazprom** since the start of the war, and it sheds light on the role of international arbitration when diplomacy fails.
-
----
-
-## Background: A Contract in Crisis
-
-ČEZ, a majority state-owned Czech utility, had a **long-standing gas supply agreement** with **Gazprom Export**, a subsidiary of Russian energy giant Gazprom. Under the contract, Gazprom was obligated to deliver specific volumes of natural gas to ČEZ, a critical part of the Czech Republic’s energy supply strategy.
-
-However, in **2022 and 2023**, following Russia’s full-scale invasion of Ukraine, energy flows across Europe were severely disrupted. Gazprom failed to deliver the agreed quantities, citing **extraordinary circumstances** related to the war and EU sanctions. ČEZ, having already paid for significant volumes, was left scrambling for alternatives on a volatile spot market — incurring **major losses**.
-
-When bilateral negotiations failed, ČEZ initiated arbitration at the **ICC International Court of Arbitration**, seeking to recover damages for Gazprom’s non-performance.
+But unlike others, ČEZ took its supplier—**Gazprom Export**—to arbitration. And in **February 2025**, it won. An **ICC tribunal** awarded ČEZ roughly **$42 million** in damages, holding Gazprom liable for gas deliveries it had failed to supply during the **2022–2023 energy crisis** (Reuters, 2025).
 
 ---
 
-## Legal Battle: Force Majeure Under the Microscope
+## The Conflict Behind the Contract
 
-The heart of the legal dispute was **Gazprom’s invocation of force majeure** — a contractual clause that relieves a party from liability when extraordinary events make performance impossible.
+At the heart of this dispute was a **long-term gas supply agreement** governed by international law and overseen by the International Chamber of Commerce (ICC). The contract obligated Gazprom to deliver agreed volumes of gas to ČEZ. But during the war, Gazprom significantly curtailed deliveries.
 
-Force majeure clauses are common in energy contracts, but **invoking them successfully requires meeting strict conditions**. Most clauses demand that the event:
-
-1. Falls within a defined list (e.g., war, sanctions, natural disasters);  
-2. **Directly prevents** performance — not just makes it harder or more expensive;  
-3. Cannot be reasonably overcome through alternative means;  
-4. Is promptly and transparently notified to the counterparty.
-
-Gazprom claimed that Western sanctions and the geopolitical situation made it impossible to fulfil its delivery obligations. However, ČEZ challenged this defense, arguing that:
-
-- Gazprom did not prove that it was **legally or physically prevented** from delivering gas;  
-- The company failed to **mitigate** the disruption or explore reasonable alternatives;  
-- It delayed in providing proper **notification and evidence** to support its claim.
+In its defence, Gazprom invoked **force majeure**—arguing that war-related sanctions, logistical barriers, and political instability made performance impossible. Force majeure clauses are common in international contracts. But invoking them successfully requires more than citing a crisis.
 
 ---
 
-## The Ruling: Commercial Risk Is Not Force Majeure
+## Why This Case Mattered
 
-The arbitral tribunal **rejected Gazprom’s force majeure defense**, finding that:
+This case raised critical questions:
 
-- While war and sanctions can constitute force majeure in principle, **Gazprom failed to show a direct causal link** between these events and its inability to perform.  
-- The sanctions regime in place **did not legally prohibit** Gazprom from fulfilling its contractual duties in this specific case.  
-- The disruption, although severe, was **foreseeable and potentially manageable**, especially for a state-backed supplier experienced in navigating geopolitical risk.
+- Can a seller invoke war as a blanket excuse to halt performance?
+- Does economic unviability qualify as force majeure?
+- What happens when one party is state-owned and acts under political instruction?
 
-Instead, the tribunal found that **Gazprom had breached the contract**, and awarded **€42.2 million in damages** to ČEZ, covering prepaid volumes and associated losses (ICC Arbitration, 2025).
-
-This decision marked a rare legal setback for Gazprom in international proceedings, as most similar disputes have either been settled confidentially or withdrawn due to political pressure.
+The ICC tribunal, sitting in Switzerland, weighed the contract’s terms, the applicable legal standards, and Gazprom’s obligations. It ruled in **ČEZ’s favour**, finding that Gazprom had **not met the legal threshold** for force majeure (Global Arbitration Review, 2025).
 
 ---
 
-## Why It Matters
+## What Counts as Force Majeure?
 
-### 1. Clarifies the Boundaries of Force Majeure
+The Gazprom case underscores how tribunals interpret **force majeure** in international contracts. Most clauses require four conditions to be met:
 
-This case offers a timely clarification: **force majeure is not a free pass**. Even in times of war or sanctions, companies must show that performance was **truly impossible**, not merely burdensome or undesirable. The tribunal sent a strong message — **commercial risk remains commercial risk**, even during crisis.
+1. **The event must be defined** in the contract (e.g., war, natural disaster, or embargo).
+2. **The event must directly prevent performance**, not just make it more difficult or costly.
+3. **The affected party must act in good faith** and mitigate where possible.
+4. **Proper notice** must be given—promptly and with sufficient detail.
 
-### 2. Reinforces the Role of Arbitration in Geopolitical Conflicts
-
-When diplomatic or political channels break down, international arbitration provides a neutral forum to enforce rights. This ruling demonstrates that **contractual commitments endure** even in the shadow of geopolitical rupture. It’s a victory not just for ČEZ, but for the rule of law in international commerce.
-
-### 3. A Rare European Win Against Gazprom
-
-Since 2022, several European firms have struggled to challenge Gazprom successfully in court or arbitration. ČEZ’s victory is among the first that has resulted in a **publicly known monetary award**, signaling that **state-linked suppliers are not immune** from commercial accountability.
+In this case, the tribunal concluded that Gazprom’s **arguments were insufficient**. While war is a recognised force majeure event, the **link between the conflict and Gazprom’s non-performance** was deemed **too indirect and inadequately substantiated** (ICC Reporter, 2025). The company also **failed to prove it had explored reasonable alternatives** or taken all steps to minimise disruption.
 
 ---
 
-## Conclusion: Law Over Leverage
+## Jurisdictional Battle: No Russian Courts Allowed
 
-In the end, the tribunal’s decision underscores a key principle: **contracts remain binding, even under pressure**. While the war in Ukraine has reshaped Europe’s energy landscape, legal obligations continue to matter — and can be enforced through well-drafted contracts and independent tribunals.
+Another notable aspect of the case was **jurisdiction**. In 2024, ČEZ had obtained a preliminary ruling **barring Gazprom from taking the dispute to Russian courts** (Reuters, 2024). This reinforced the ICC’s authority and prevented parallel litigation in a forum where neutrality could be questioned.
 
-As more disputes arise from the global energy shock, this case sets a precedent: **hard law can still prevail over hard power**. For buyers, sellers, and states alike, it’s a reminder that the rules of international commerce don’t disappear when politics heat up — they just become more vital.
+This decision matters: it **reaffirms confidence in international arbitration** and shows how global tribunals can resist pressure from politically influenced domestic courts.
+
+---
+
+## The Award and Its Implications
+
+The tribunal awarded **$42 million in damages**, one of the largest recent rulings against Gazprom. But more than the number, the case set an **important precedent**.
+
+- **War alone isn’t a free pass**: Just because performance becomes harder, even under extreme events, doesn’t mean parties are excused.
+- **Commercial and political motives must be separated**: Gazprom is state-linked, but the tribunal treated it as a commercial actor bound by contract.
+- **Good faith and procedural discipline matter**: Failing to mitigate losses or notify in time can undermine a party’s force majeure defence.
+
+---
+
+## What This Means for Future Energy Disputes
+
+The ČEZ ruling is likely to reverberate across **European energy markets** and **state contracts**. It serves as a reminder that:
+
+- Arbitration remains a powerful tool for holding powerful suppliers to account—even amid geopolitical disruption.
+- Companies should **draft force majeure clauses carefully**, specifying events, obligations, and notice procedures.
+- Courts and tribunals are willing to look past politics and focus on **contractual accountability**.
+
+---
+
+## Conclusion: Crisis is No Contract Killer
+
+This was more than a regional utility challenging a superpower. The ICC case reflects how commercial law remains **resilient under pressure**. It shows that **even in wartime**, agreements can—and must—be honoured unless strict legal standards are met.
+
+In a world increasingly shaped by **conflict, sanctions, and supply shocks**, this case stands as a reminder: **crisis is not carte blanche**. Contracts still speak. And when they don’t, tribunals do.
 
 ---
 
 ## References
-Global Arbitration Review (2025) ‘Czech energy group declares win against Gazprom’, 26 February. [Available at](https://globalarbitrationreview.com/article/czech-energy-group-declares-win-against-gazprom) (Accessed: 3 March 2025).
 
-ICC Reporter (2025) ‘ICC tribunal awards ČEZ damages over Russian gas shortfall’, International Arbitration Monitor, March. [Available at](https://arbitrationmonitor.com/gazprom-suffers-major-arbitration-loss-at-the-icc/) (Accessed: 3 March 2025).
+Global Arbitration Review (2025) ‘Czech energy group declares win against Gazprom’, 26 February. Available at: [https://globalarbitrationreview.com/article/czech-energy-group-declares-win-against-gazprom](https://globalarbitrationreview.com/article/czech-energy-group-declares-win-against-gazprom) (Accessed: 3 March 2025).
 
-Reuters (2025) ‘ČEZ wins arbitration against Gazprom’, Reuters, 26 February. [Available at](https://www.reuters.com/business/energy/cez-wins-arbitration-against-gazprom-2025-02-26/) (Accessed: 3 March 2025).
+ICC Reporter (2025) ‘ICC tribunal awards CEZ damages over Russian gas shortfall’, *International Arbitration Monitor*, March. Available at: [https://arbitrationmonitor.com/gazprom-suffers-major-arbitration-loss-at-the-icc/](https://arbitrationmonitor.com/gazprom-suffers-major-arbitration-loss-at-the-icc/) (Accessed: 3 March 2025).
 
-Reuters (2024) ‘ICC tribunal bans Gazprom from bringing gas dispute to Russian court’, Reuters, 24 May. [Available at](https://www.reuters.com/business/energy/cez-icc-tribunal-bans-gazprom-placing-gas-dispute-russian-court-2024-05-24/) (Accessed: 3 March 2025).
+Reuters (2025) ‘ČEZ wins arbitration against Gazprom’, *Reuters*, 26 February. Available at: [https://www.reuters.com/business/energy/cez-wins-arbitration-against-gazprom-2025-02-26/](https://www.reuters.com/business/energy/cez-wins-arbitration-against-gazprom-2025-02-26/) (Accessed: 3 March 2025).
 
-Wikipedia (2025) 2022–2023 Russia–European Union gas dispute. [Available at](https://en.wikipedia.org/wiki/2022–2023_Russia–European_Union_gas_dispute) (Accessed: 3 March 2025).
+Reuters (2024) ‘ICC tribunal bans Gazprom from bringing gas dispute to Russian court’, *Reuters*, 24 May. Available at: [https://www.reuters.com/business/energy/cez-icc-tribunal-bans-gazprom-placing-gas-dispute-russian-court-2024-05-24/](https://www.reuters.com/business/energy/cez-icc-tribunal-bans-gazprom-placing-gas-dispute-russian-court-2024-05-24/) (Accessed: 3 March 2025).
 
+Wikipedia (2025) *2022–2023 Russia–European Union gas dispute*. Available at: [https://en.wikipedia.org/wiki/2022–2023_Russia–European_Union_gas_dispute](https://en.wikipedia.org/wiki/2022–2023_Russia–European_Union_gas_dispute) (Accessed: 3 March 2025).
