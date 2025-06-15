@@ -1,61 +1,71 @@
 ---
 layout: page
-title: Hi, I’m Berke
+title: ""
 ---
 
 <style>
-  .home-container {
+  .hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+  }
+
+  .hero-container h1 {
+    font-size: 3em;
+    margin: 0.5em 0 0.2em;
+  }
+
+  .main-grid {
     display: grid;
     grid-template-columns: 1fr 2fr;
+    max-width: 1200px;
+    margin: auto;
     gap: 3rem;
-    align-items: start;
-    margin-top: 2rem;
+    padding: 2rem 1rem;
   }
 
-  .intro {
-    padding: 1rem;
-  }
-
-  .intro h1 {
-    font-size: 2.8em;
+  .intro h2 {
+    font-size: 2em;
     margin-bottom: 0.5em;
   }
 
   .intro p {
-    font-size: 1.2em;
-    line-height: 1.6;
+    font-size: 1.15em;
     color: #444;
+    line-height: 1.6;
   }
 
-  .blog-preview {
-    padding: 1rem;
+  .blog-preview h2 {
+    font-size: 1.5em;
+    margin-bottom: 1rem;
   }
 
   .blog-post {
     display: flex;
     gap: 15px;
     margin-bottom: 2.5em;
+    align-items: flex-start;
   }
 
   .blog-post img {
     width: 110px;
-    height: auto;
     border-radius: 6px;
     object-fit: cover;
   }
 
   .blog-post h3 {
+    font-size: 1.1em;
     margin: 0;
-    font-size: 1.15em;
   }
 
   .blog-post small {
-    color: #777;
     font-size: 0.85em;
+    color: #777;
   }
 
   @media (max-width: 768px) {
-    .home-container {
+    .main-grid {
       grid-template-columns: 1fr;
     }
 
@@ -69,23 +79,28 @@ title: Hi, I’m Berke
   }
 </style>
 
-<div class="home-container">
+<div class="hero-container">
+  <img src="/assets/img/profile.jpg" alt="Berke profile" style="width: 100px; height: 100px; border-radius: 50%;">
+  <h1>Hi, I'm Berke</h1>
+</div>
 
-  <!-- Left: Intro -->
+<div class="main-grid">
+
+  <!-- Left: About -->
   <div class="intro">
-    <h1>Hi, I’m Berke</h1>
+    <h2>Hi, I’m Berke</h2>
     <p>
       a legal professional focused on international commercial law and dispute resolution.
     </p>
   </div>
 
-  <!-- Right: Blog Posts -->
+  <!-- Right: Blog -->
   <div class="blog-preview">
     <h2>Recent Posts</h2>
     {% for post in site.posts limit: 5 %}
       <div class="blog-post">
         {% if post.thumbnail-img %}
-          <img src="{{ post.thumbnail-img | relative_url }}" alt="{{ post.title }} thumbnail">
+          <img src="{{ post.thumbnail-img | relative_url }}" alt="Thumbnail for {{ post.title }}">
         {% else %}
           <img src="/assets/img/default-thumb.jpg" alt="Default thumbnail">
         {% endif %}
@@ -93,8 +108,8 @@ title: Hi, I’m Berke
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
           {% assign words = post.content | number_of_words %}
           {% assign minutes = words | divided_by:200 %}
-          <small>{{ post.date | date: "%B %d, %Y" }} — 🕮 {{ minutes | ceil }} min read</small>
-          <p style="margin-top: 0.5em;">{{ post.excerpt }}</p>
+          <small>{{ post.date | date: "%B %d, %Y" }} — 📖 {{ minutes | ceil }} min read</small>
+          <p style="margin-top: 0.4em;">{{ post.excerpt }}</p>
         </div>
       </div>
     {% endfor %}
