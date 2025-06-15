@@ -14,11 +14,21 @@ Here you'll find commentary on landmark cases, treaty interpretation, and evolvi
 
 ## Recent Posts
 
-<ul>
+<ul style="padding-left: 0;">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a><br />
-      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    <li style="margin-bottom: 2em; list-style: none;">
+      <div style="display: flex; align-items: flex-start;">
+        {% if post.thumbnail-img %}
+          <img src="{{ post.thumbnail-img }}" alt="Thumbnail for {{ post.title }}" style="width: 100px; height: auto; margin-right: 15px; border-radius: 4px;" />
+        {% endif %}
+        <div>
+          <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a><br />
+          <small>{{ post.date | date: "%B %d, %Y" }}</small><br />
+          {% if post.excerpt %}
+            <p style="margin-top: 5px;">{{ post.excerpt }}</p>
+          {% endif %}
+        </div>
+      </div>
     </li>
   {% endfor %}
 </ul>
