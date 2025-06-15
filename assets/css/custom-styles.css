@@ -1,10 +1,11 @@
 .avatar-img {
   width: 60px;
   height: 60px;
+  aspect-ratio: 1 / 1;
   border-radius: 50%;
-  object-fit: contain;           /* Show the full seal, no cropping */
-  background-color: white;       /* Matches seal background */
-  padding: 4px;                  /* Adds space inside the circle */
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);  /* Optional: subtle depth */
+  object-fit: contain;
+  background-color: white;
+  padding: 4px;
   display: block;
+  box-sizing: border-box;
 }
