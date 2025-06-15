@@ -1,22 +1,16 @@
-/* Enlarge and style navbar avatar */
-.navbar-avatar-img {
-  width: 160px !important;
-  height: 160px !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-  display: block;
-  margin: 0 auto;
+/* Safely enlarge the avatar in navbar */
+.avatar-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: all 0.3s ease;
 }
 
-/* Optional: container spacing */
-.navbar-avatar-wrapper {
-  padding: 10px 20px;
+/* Fix container padding to align */
+.avatar-container {
+  padding-left: 10px;
+  padding-right: 10px;
   display: flex;
   align-items: center;
-}
-
-/* Optional: remove any previous border effects */
-.avatar-img-border {
-  box-shadow: none !important;
-  border: none !important;
 }
