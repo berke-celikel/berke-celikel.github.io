@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Contracts in the Crossfire: ČEZ’s Legal Victory Over Gazprom"
+title: "Commercial Obligations in Times of War: ČEZ’s Legal Victory Over Gazprom"
 subtitle: "When arbitration met geopolitics during Europe’s energy crisis"
 cover-img: /assets/img/gazprom.jpeg
 thumbnail-img: /assets/img/gazprom.jpeg
