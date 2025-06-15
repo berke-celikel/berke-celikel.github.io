@@ -1,6 +1,11 @@
-#avatar {
+/* Force avatar size no matter what */
+#avatar, img#avatar {
   width: 200px !important;
   height: 200px !important;
-  border-radius: 50%; /* keep it circular */
-  object-fit: cover;
+  max-width: none !important;
+  max-height: none !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block;
+  margin: 0 auto;
 }
