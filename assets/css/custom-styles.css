@@ -1,10 +1,22 @@
-/* Make the navbar avatar/logo image twice as large */
-.navbar-brand img,
-#avatar {
-  width: 120px !important;
-  height: 120px !important;
-  max-width: none !important;
-  max-height: none !important;
+/* Enlarge and style navbar avatar */
+.navbar-avatar-img {
+  width: 160px !important;
+  height: 160px !important;
   border-radius: 50% !important;
-  object-fit: cover;
+  object-fit: cover !important;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Optional: container spacing */
+.navbar-avatar-wrapper {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+}
+
+/* Optional: remove any previous border effects */
+.avatar-img-border {
+  box-shadow: none !important;
+  border: none !important;
 }
