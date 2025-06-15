@@ -9,8 +9,7 @@ Born in Istanbul and living in Germany since 2019, I’ve pursued an academic an
 ---
 
 ## ⚖️ What Drives Me  
-I’m especially focused on international commercial law, with a strong emphasis on arbitration and cross-border dispute resolution. What drives me is the intellectual and strategic challenge of navigating complex global disputes—and the opportunity to help resolve strategically significant legal matters across jurisdictions.
-
+I’m especially focused on international commercial law, with a strong emphasis on arbitration and cross-border dispute resolution. I’m drawn to the complexity of global legal disputes and the opportunity to help resolve high-impact matters across jurisdictions.
 ---
 
 ## 🛠️ Experience  
