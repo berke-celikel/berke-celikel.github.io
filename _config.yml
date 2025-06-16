@@ -27,7 +27,7 @@ author: Berke Celikel
 
 navbar-links:
   About Me: "aboutme"
-  CV: "assets/img/Berke Celikel CV .pdf"
+  CV: /assets/img/Berke_Celikel_CV.pdf
   Blog: "blog"
   Podcast: "podcast"
   Research & Writing: "publications"
