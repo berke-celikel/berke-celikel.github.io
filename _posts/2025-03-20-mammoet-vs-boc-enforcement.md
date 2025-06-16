@@ -19,7 +19,7 @@ In February 2025, the Amsterdam Court of Appeal ruled in favour of Dutch company
 
 Mammoet and BOC entered into a contract in 2013 to remove a sunken vessel from Iraq’s territorial waters. The contract included an arbitration clause designating the **ICC** and **DIFC** as the arbitration seat. However, the relationship deteriorated following delays, alleged military interference by the Iraqi Navy, and payment disputes. Mammoet suspended operations and commenced ICC arbitration in 2018.
 
-In 2021, the ICC tribunal issued a final award. It ordered BOC to pay Mammoet approximately **US $85 million**, offset by a **US $37 million** deduction due to BOC’s partial counterclaim—bringing the net award to nearly US $48 million (Daily Jus, 2025).
+In 2021, the ICC tribunal issued a final award. It ordered BOC to pay Mammoet approximately **US $85 million**, offset by a **US $37 million** deduction due to BOC’s partial counterclaim—bringing the net award to nearly **US $48 million** (Daily Jus, 2025).
 
 ---
 
@@ -39,10 +39,11 @@ On **11 February 2025**, the Amsterdam Court of Appeal considered three key obje
 BOC argued that the ICC tribunal ruled on issues beyond its scope—particularly regarding military actions by the Iraqi Navy. The Court rejected this. It found that the arbitration focused on BOC’s contractual breaches, not acts of state (Global Arbitration Review, 2025).
 
 ### 2. **Public Policy**
-BOC claimed the award violated Dutch public policy due to alleged bribery and procedural irregularities. The Court emphasized that:
-- These claims had been fully addressed by the tribunal.
-- BOC had actually received partial relief via counterclaims.
-- There was no evidence of fundamental unfairness warranting non-enforcement (Daily Jus, 2025).
+BOC argued that enforcement of the award would contravene Dutch public policy, citing alleged corruption and procedural irregularities. The Amsterdam Court of Appeal firmly rejected this defence, emphasizing that:
+
+- The arbitral tribunal had already considered and addressed these allegations during the proceedings;  
+- BOC had been partially successful, receiving a reduction through its counterclaims, indicating that the process had been fair;  
+- No compelling evidence of fundamental unfairness or misconduct was presented that would satisfy the high threshold under Dutch law for refusing enforcement on public policy grounds (Daily Jus, 2025).
 
 ### 3. **Sovereign Immunity**
 BOC invoked sovereign immunity under international law. The Court dismissed this by applying the **restrictive theory**: BOC acted in a **commercial capacity (jure gestionis)**, not in the exercise of sovereign authority (jure imperii). Consequently, immunity did not apply (Slaughter & May, 2025).
@@ -86,9 +87,9 @@ The case further narrows the use of public policy exceptions. Courts will not en
 
 ---
 
-## Conclusion
+## Conclusion: Enforcement Against State-Affiliated Entities
 
-Mammoet v BOC is more than a salvage dispute—it is a case about how international law disciplines sovereign-linked entities. It confirms that when states and SOEs enter commercial contracts, they are bound by their agreements and subject to international enforcement mechanisms. Under the New York Convention, the path from arbitration award to court order is not always easy—but in rule-of-law jurisdictions like the Netherlands, it remains reliably open.
+*Mammoet v BOC* is more than a salvage dispute—it is a case about how international law disciplines state-linked commercial actors. It confirms that when state-owned enterprises and other government-affiliated entities enter into commercial contracts, they are bound by their agreements and subject to international enforcement mechanisms. Under the New York Convention, the path from arbitral award to court order is not always easy—but in rule-of-law jurisdictions like the Netherlands, it remains reliably open.
 
 ---
 
@@ -98,12 +99,12 @@ Daily Jus (2025) ‘Amsterdam Court of Appeal Grants Enforcement of ICC Award Ag
 
 Global Arbitration Review (2025) ‘Dutch court enforces against Iraqi state entity’, 4 March. [Available at](https://globalarbitrationreview.com/article/dutch-court-enforces-against-iraqi-state-entity) (Accessed: 15 March 2025).
 
-Jus Mundi (2025) *Mammoet Salvage BV v Basra Oil Company BOC – DIFC Court Appeal Decision*, 27 January. [Available at](https://jusmundi.com/en/document/decision/en-mammoet-salvage-bv-v-basra-oil-company-boc) (Accessed: 15 March 2025).
+Guide to New York Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10) (Accessed: 15 March 2025).
 
-Slaughter & May (2025) ‘Enforcement of Awards Against States: Exceptions to State Immunity’, 1 May. [Available at](https://www.slaughterandmay.com/insights/new-insights/enforcement-of-awards-against-states-exceptions-to-state-immunity) (Accessed: 15 March 2025).
+Jus Mundi (2025) *Mammoet Salvage BV v Basra Oil Company BOC – DIFC Court Appeal Decision*, 27 January. [Available at](https://jusmundi.com/en/document/decision/en-mammoet-salvage-bv-v-basra-oil-company-boc) (Accessed: 15 March 2025).
 
 Mondaq (2024) *An Appraisal of the Defence of Sovereign Immunity in the Enforcement of Foreign Arbitral Awards*, 15 May. [Available at](https://www.mondaq.com/trials-appeals-compensation/1465722/an-appraisal-of-defence-of-sovereign-immunity-in-the-enforcement-of-foreign-arbitral-awards) (Accessed: 15 March 2025).
 
-UNCITRAL (1958) *Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York)*. [Available at](https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards) (Accessed: 15 March 2025).
+Slaughter & May (2025) ‘Enforcement of Awards Against States: Exceptions to State Immunity’, 1 May. [Available at](https://www.slaughterandmay.com/insights/new-insights/enforcement-of-awards-against-states-exceptions-to-state-immunity) (Accessed: 15 March 2025).
 
-Guide to New York Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10) (Accessed: 15 March 2025).
+UNCITRAL (1958) *Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York)*. [Available at](https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards) (Accessed: 15 March 2025).
