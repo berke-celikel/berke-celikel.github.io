@@ -31,8 +31,9 @@ navbar-links:
   Blog: "blog"
   Podcast: "podcast"
   Research & Writing: "publications"
-  Travels: "travels"
-  35mm: "35mm"
+  ICYMI:
+    - Travels: "travels"
+    - 35mm: "35mm"
 
 ################
 # --- Logo --- #
