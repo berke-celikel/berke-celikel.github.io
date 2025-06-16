@@ -11,7 +11,7 @@ permalink: /podcast/
   </a>
 </div>
 <h2 style="text-align: center; font-size: 2.2em; font-weight: 700; margin-top: 1em;">
-  Podcast Coming Soon
+  Coming Soon
 </h2>
 
 <p style="text-align: center; font-size: 1.2em; max-width: 700px; margin: 1.5em auto;">
