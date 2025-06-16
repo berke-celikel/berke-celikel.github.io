@@ -102,8 +102,8 @@ Jus Mundi (2025) *Mammoet Salvage BV v Basra Oil Company BOC – DIFC Court Appe
 
 Slaughter & May (2025) ‘Enforcement of Awards Against States: Exceptions to State Immunity’, 1 May. [Available at](https://www.slaughterandmay.com/insights/new-insights/enforcement-of-awards-against-states-exceptions-to-state-immunity) (Accessed: 15 March 2025).
 
-Mondaq (2024) *An Appraisal of the Defence of Sovereign Immunity in the Enforcement of Foreign Arbitral Awards*, 15 May. Available at: [https://www.mondaq.com/trials-appeals-compensation/1465722/an-appraisal-of-defence-of-sovereign-immunity-in-the-enforcement-of-foreign-arbitral-awards](https://www.mondaq.com/trials-appeals-compensation/1465722/an-appraisal-of-defence-of-sovereign-immunity-in-the-enforcement-of-foreign-arbitral-awards) (Accessed: 13 March 2025).
+Mondaq (2024) *An Appraisal of the Defence of Sovereign Immunity in the Enforcement of Foreign Arbitral Awards*, 15 May. [Available at](https://www.mondaq.com/trials-appeals-compensation/1465722/an-appraisal-of-defence-of-sovereign-immunity-in-the-enforcement-of-foreign-arbitral-awards) (Accessed: 15 March 2025).
 
-UNCITRAL (1958) *Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York)*. Available at: [https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards](https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards) (Accessed: 13 March 2025).
+UNCITRAL (1958) *Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York)*. [Available at](https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards) (Accessed: 15 March 2025).
 
-Guide to New York Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. Available at: [https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10) (Accessed: 13 March 2025).
+Guide to New York Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10) (Accessed: 15 March 2025).
