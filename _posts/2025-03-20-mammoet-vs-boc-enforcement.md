@@ -9,8 +9,6 @@ tags: [Arbitration, Enforcement, Sovereign Immunity, New York Convention, Iraq]
 author: Berke Celikel
 ---
 
-## Amsterdam Enforcement: Mammoet Triumphs Over Iraq’s BOC
-
 In February 2025, the Amsterdam Court of Appeal ruled in favour of Dutch company Mammoet Salvage B.V., enforcing an ICC arbitral award against Iraq’s state-owned Basra Oil Company (BOC). The decision—arising from a long-running wreck-removal dispute—clarified how sovereign immunity, public policy, and the limits of judicial review operate under the **New York Convention**. It reinforced that state-linked debtors are not immune from the enforcement of commercial arbitration awards in Europe (Global Arbitration Review, 2025).
 
 ---
