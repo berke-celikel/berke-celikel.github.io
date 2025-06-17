@@ -1,110 +1,125 @@
 ---
 layout: post
-title: "Rosatom vs. Fortum & Outokumpu: The $2.8 B Nuclear Arbitration"
-subtitle: "When sanctions collide with contracts: Russia’s Rosatom sues over Finland’s cancelled Hanhikivi‑1 nuclear deal"
+title: "When Contracts Collide with Conflict: The $2.8 Billion Arbitration That Could Reshape Sanctions Law"
+subtitle: "Rosatom’s $2.8B claim over a cancelled Finnish nuclear project isn’t just about money — it’s about the limits of law in a geopolitical storm."
 cover-img: /assets/img/rosatom.jpg
 thumbnail-img: /assets/img/rosatom.jpg
-excerpt: "Rosatom is demanding nearly $3 billion from Fortum and Outokumpu over the cancelled Hanhikivi‑1 nuclear plant — a case where sanctions law meets global arbitration."
+excerpt: "This high-stakes case pits Russia’s state-owned nuclear firm against Finnish corporates — and tests whether force majeure holds under the weight of EU sanctions."
 tags: [Arbitration, ICC, Sanctions, Russia, Finland, Nuclear, Energy]
 author: Berke Celikel
 ---
+On paper, it’s just a lawsuit — one of many that crawl through the machinery of international arbitration each year. But beneath the legal jargon and dollar signs, *Rosatom vs. Fortum & Outokumpu* tells a bigger story. A story about how war bleeds into commerce. About the fragility of contracts in an age of geopolitics. And maybe — depending on how this plays out — a cautionary tale for any company still navigating business with sanctioned states.
 
-On **5 May 2025**, Russian state nuclear energy giant **Rosatom** initiated a $2.8 billion arbitration against Finnish companies **Fortum** and **Outokumpu**, alleging breach of contractual obligations tied to the **Hanhikivi‑1 nuclear power plant** (Reuters, 2025). The plant, a landmark joint venture between Russia and Finland, was part of an ambitious energy cooperation scheme that crumbled in the wake of **Russia's 2022 invasion of Ukraine** and subsequent **EU sanctions** (NucNet, 2025).
-
-This case, already drawing global attention, brings together the **geopolitics of war**, **transnational contract law**, and **energy security** into one high-stakes arbitration.
-
----
-
-## A Nuclear Project Caught in the Crossfire
-
-The **Hanhikivi‑1 project** was no small endeavor. Located in Pyhäjoki, Finland, the nuclear power plant was being developed by **Fennovoima**, a consortium involving Finnish industrial stakeholders and led by Fortum. Rosatom, through its subsidiary RAOS Project Oy, was to supply the **VVER-1200 nuclear reactor**, fund a substantial part of the construction, and provide nuclear fuel (Reuters, 2025).
-
-After years of planning, the project was abruptly **terminated in May 2022**, shortly after the Russian invasion of Ukraine. The **Finnish Government revoked Rosatom's construction permit**, citing national security concerns and the breakdown of political trust (NucNet, 2025). Fennovoima followed with a formal contract cancellation. Rosatom’s legal response took two years to materialize, culminating in the recent $2.8 billion claim (Reuters, 2025).
+Let’s start with the facts. On **5 May 2025**, Rosatom, Russia’s state-owned nuclear energy corporation, filed a claim seeking **$2.8 billion** in damages from two Finnish companies — **Fortum** and **Outokumpu** — over the cancellation of the *Hanhikivi‑1* nuclear power project ([Reuters, 2025](https://www.reuters.com/business/energy/russias-rosatom-sues-finnish-firms-28-bln-over-nuclear-plant-contract-2025-05-05/)). The arbitration is international, likely under ICC or SCC rules, though the precise seat remains undisclosed. Moscow is the formal launching point — but the heart of the matter isn’t geography. It’s what happens when a commercial contract gets swept up in a war.
 
 ---
 
-## Legal Dimensions: Contracts, Sanctions, and Attribution
+## The Dream That Was Hanhikivi‑1
 
-### Breach of Contract Allegations
+Before it became a legal spectacle, Hanhikivi‑1 was a promise. A vast nuclear plant to be built on Finland’s western coast in Pyhäjoki, projected to generate clean energy for decades. Rosatom was to supply the reactor — a VVER-1200 — and take on a substantial portion of the financing. Finnish stakeholders, through a joint venture called **Fennovoima**, were to lead development on home soil.
 
-Rosatom’s claim is built on allegations that:
-- The cancellation lacked a valid contractual basis;
-- Fennovoima acted unilaterally and under political pressure;
-- Fortum and Outokumpu, as corporate stakeholders, are liable for lost investment, technical services, and fuel contracts (Reuters, 2025).
+There was optimism, at least initially. Energy independence, cross-border collaboration, carbon reduction. It felt like a future-looking project, even progressive.
 
-Rosatom argues that the Finnish side failed to honor long-term commitments enshrined in the EPC (Engineering, Procurement, and Construction) agreement.
+But that was before February 2022. Before Russia invaded Ukraine. Before the EU imposed sanctions that severed so many commercial ties, some cleanly, others messily. And this? This got messy.
 
-### Sanctions as Force Majeure?
-
-Fortum and Fennovoima are expected to argue that the EU sanctions regime and Finnish export controls constituted a **force majeure** event. That is, the performance of contractual duties became legally or physically impossible due to government measures (Guide to NY Convention, 2023).
-
-Under international commercial law, however, **force majeure is not automatically triggered by geopolitical events**:
-- The clause must be **explicit** in the contract;
-- The event must make performance **impossible**, not just impractical;
-- The invoking party must issue **timely notice** and attempt to **mitigate** damage (Guide to NY Convention, 2023).
-
-The tribunal will likely scrutinize whether sanctions merely made the deal politically untenable or genuinely impossible to perform.
+By May 2022, the Finnish government had revoked Rosatom’s construction permit — citing national security and a collapse in political trust ([NucNet, 2025](https://www.nucnet.org/news/rosatom-has-filed-lawsuit-over-abandoned-hanhikivi-1-nuclear-project-in-finland-reports-say-5-2-2025)). Fennovoima followed with an official contract termination. Rosatom waited. Two years, in fact. And then came the $2.8 billion claim.
 
 ---
 
-## Geopolitical Tensions at the Arbitration Table
+## A Case That’s Anything But Simple
 
-This case does not arise in a vacuum. Since 2022, Rosatom has been increasingly **isolated in the European nuclear market**. Finland's severance of ties was part of a broader wave of decoupling from Russian energy infrastructure (NucNet, 2025). This arbitration will test whether state-linked companies can use **commercial law to push back against geopolitical isolation**.
+So here we are. One canceled project. One state-backed plaintiff. Two multinational defendants. And an arbitration claim steeped in questions that don’t have tidy answers.
 
-Interestingly, Rosatom has framed its claim not only in contractual terms, but as a defense of the **sanctity of international business**. It alleges that Fortum and Outokumpu succumbed to political expediency over legal obligations (Reuters, 2025).
+From Rosatom’s side, the argument is straightforward — at least superficially. The Finnish parties breached contract. The termination was politically motivated, not legally justified. And Rosatom, through its subsidiary **RAOS Project Oy**, lost money — lots of it — on upfront investments, technical services, and nuclear fuel arrangements ([Reuters, 2025](https://www.reuters.com/business/energy/russias-rosatom-sues-finnish-firms-28-bln-over-nuclear-plant-contract-2025-05-05/)).
 
-Meanwhile, Fortum insists it had no choice: the Finnish government’s revocation of key permits made continuation impossible.
+But then come the defenses. And this is where it gets interesting.
 
----
+Fortum and Fennovoima are expected to lean heavily on **force majeure**. That is, the idea that external events — in this case, EU sanctions and Finnish government prohibitions — rendered performance not just impractical but impossible ([Guide to NY Convention, 2023](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10)). It’s a familiar concept, often invoked but rarely clear-cut. Because “impossible” is a high bar.
 
-## Multiple Jurisdictions, Unclear Forum
+Under international law, you don’t get to simply walk away because circumstances got harder. The force majeure clause must be *explicit* in the contract. The event must *objectively* prevent performance. And you have to act fast — notify your counterparty, try to mitigate loss, show that you didn’t just fold under pressure ([Guide to NY Convention, 2023](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10)).
 
-While the initial lawsuit was filed in **Moscow**, reports suggest that related arbitration has been or will be launched before the **ICC** or **SCC** (Reuters, 2025). The exact seat of arbitration remains undisclosed, but it will critically affect **enforceability**.
-
-In **Moscow**, Rosatom may obtain a favorable ruling, but **international enforcement will be complicated** due to sanctions and political hostility. Arbitration under ICC or SCC rules with a European seat would offer greater legitimacy but would also expose Rosatom to neutral adjudication.
-
-A **key hearing was scheduled for March 2026**, suggesting a long road ahead.
+Whether Finland’s actions crossed that threshold... well, that’s for the arbitrators to decide.
 
 ---
 
-## Can the Award Be Enforced?
+## But Let’s Not Pretend This Is Just About Law
 
-Even if Rosatom prevails, enforcement outside Russia will be complex:
-- The **New York Convention (1958)** requires courts to enforce foreign arbitral awards unless they breach **Article V** exceptions (public policy, invalid contract, etc.) (Guide to NY Convention, 2023).
-- Finnish and EU courts may **refuse enforcement** under the **public policy exception (Art V(2)(b))** due to sanctions against Russia (Guide to NY Convention, 2023).
+It rarely is, when states get involved.
 
-Rosatom's success thus hinges not only on legal arguments, but also on whether **a tribunal award can translate into money in hostile jurisdictions**.
+Rosatom’s case is as much about optics as it is about outcomes. Framing the dispute as a test of “contractual sanctity” — a phrase they’ve used — Rosatom is implicitly pushing back against the idea that politics should dissolve legally binding obligations ([Reuters, 2025](https://www.reuters.com/business/energy/russias-rosatom-sues-finnish-firms-28-bln-over-nuclear-plant-contract-2025-05-05/)). It’s an argument crafted for international ears. Perhaps even future investors.
 
----
+There’s something performative here — not in a cynical sense, necessarily, but in the way that all high-profile arbitration becomes theater. Rosatom is saying: *We may be sanctioned, but we’re still playing by the rules. Are you?*
 
-## Why This Case Is More Than Just $2.8 Billion
+On the other side, Fortum claims its hands were tied. The Finnish state pulled the permits. Operating without them wasn’t just risky — it was unlawful. Continuing would’ve put them in breach of Finnish regulatory law. In a sense, the company is caught between two sovereigns: the obligations under contract, and the prohibitions imposed at home.
 
-### A Legal Stress Test for Sanctions Regimes
-
-This dispute may set a **precedent for how force majeure and sanctions interact** in international arbitration. If the tribunal accepts sanctions as a valid excuse, future claims against sanctioned states or entities may fail.
-
-### Minority Shareholder Exposure
-
-Fortum and Outokumpu are not direct EPC signatories. Rosatom’s move to include them in the claim raises questions about the **liability of non-controlling shareholders** in public-private partnerships (Reuters, 2025).
-
-### Energy Sovereignty in Europe
-
-The Hanhikivi‑1 project was a symbol of Europe’s precarious energy interdependence. Its cancellation and resulting litigation mark a **turning point in EU–Russia energy ties**, emphasizing legal disengagement as well as political.
+What’s a corporation to do?
 
 ---
 
-## Conclusion: Law, Politics, and Power Plants
+## The Venue Question: Where Justice Is Sought (and What That Means)
 
-Rosatom vs. Fortum & Outokumpu is more than a private commercial dispute. It is a bellwether for the **future of transnational arbitration in an era of fractured geopolitics**. If Rosatom prevails, it may embolden state-linked entities to seek legal redress against Western governments and companies for sanction-induced losses. If it fails, it may solidify a precedent for treating sanctions as legitimate force majeure.
+There’s still ambiguity around where this arbitration will actually be heard. Rosatom has filed proceedings in **Moscow**, but reports suggest parallel or follow-up claims may land in Western arbitral forums like the **ICC** or **SCC** ([Reuters, 2025](https://www.reuters.com/business/energy/russias-rosatom-sues-finnish-firms-28-bln-over-nuclear-plant-contract-2025-05-05/)).
 
-Whatever the outcome, the case promises to become a landmark in the evolution of **international arbitration under geopolitical strain**.
+That choice isn’t cosmetic. It’s strategic.
+
+A Russian venue may give Rosatom a home-court advantage, but enforcing any award outside Russia — especially in the EU — is practically impossible under current sanctions regimes. Meanwhile, an ICC or SCC tribunal with a European seat would offer greater neutrality... and possibly legitimacy. But it also risks a more skeptical hearing.
+
+And this is where enforcement becomes the hidden climax of the story.
+
+Even if Rosatom wins — a big *if* — collecting the award in a hostile jurisdiction may trigger **public policy exceptions** under the **New York Convention**. That is, courts in Finland or other EU nations may refuse to honor an arbitral award if it conflicts with their domestic or international policy commitments ([Guide to NY Convention, 2023](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10)).
+
+And sanctions? They’re nothing if not policy commitments.
+
+---
+
+## Stretching the Edges of Force Majeure
+
+This isn’t the first time sanctions and force majeure have locked horns. But it may be the most high-profile case to test their interaction in the nuclear energy context — a sector where national interest is always lurking just beneath the surface.
+
+If the tribunal agrees that EU sanctions constituted force majeure, it could establish a soft precedent: that companies facing similar geopolitical constraints have a legal basis to exit contracts with sanctioned entities. On the flip side, if Rosatom wins, the message is arguably more chilling: that companies can’t shield behind sanctions unless they were literally paralyzed by law.
+
+Neither answer is wholly satisfying. Because the truth — as always — lies somewhere murky in between.
+
+---
+
+## And Then There’s the Shareholder Question
+
+Rosatom’s decision to go after **Fortum and Outokumpu** directly — despite neither being a direct signatory to the EPC contract — is provocative.
+
+It raises uncomfortable questions about the liability of minority stakeholders in public-private partnerships. When does financial involvement morph into legal exposure? What responsibilities, if any, do passive investors carry when a deal collapses?
+
+This could have wide-reaching implications. Not just for energy deals, but for infrastructure, defense, and any project where national and commercial interests are intertwined.
+
+It’s also, arguably, a pressure tactic. Pull more players into the claim, and the chances of settlement — or at least some movement — increase.
+
+---
+
+## More Than $2.8 Billion: The Stakes Beyond the Ledger
+
+It’s tempting to view this as a numbers game. $2.8 billion is a lot, sure. But it’s not the number that matters most.
+
+This case is about what happens when international business becomes collateral damage. When legal certainty gives way to political expediency. And when the tools we use to resolve cross-border disputes — contracts, arbitration clauses, treaties — buckle under the weight of real-world events they were never quite built to handle.
+
+In an ideal world, contracts would protect against this. But in our world — messy, fractured, deeply political — they’re sometimes just paper. Especially when sovereign decisions rewrite the rules mid-game.
+
+---
+
+## So What Now?
+
+The arbitration is set to stretch well into 2026. Hearings are scheduled. Arguments are being drafted. And somewhere, in a room with high ceilings and water pitchers and solemn-looking lawyers, arbitrators will eventually decide whose story rings truer.
+
+But whatever the ruling, the implications are already echoing beyond the case.
+
+Because this isn’t just about Fortum and Rosatom. It’s about whether force majeure can bear the weight of geopolitics. Whether companies operating in sanctioned regimes can ever feel legally secure. And whether — in a world where business and politics are inextricably entangled — commercial law can still promise predictability.
+
+We may get an answer. Or we may just get another exception. That, too, would be telling.
 
 ---
 
 ## References
 
-Guide to NY Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10) (Accessed: 9 May 2025).
+Guide to NY Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. Available at: [https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10) (Accessed: 9 May 2025).
 
-NucNet (2025) 'Rosatom files suit over abandoned Hanhikivi‑1 nuclear project', 6 May. [Available at](https://www.nucnet.org/news/rosatom-has-filed-lawsuit-over-abandoned-hanhikivi-1-nuclear-project-in-finland-reports-say-5-2-2025) (Accessed: 9 May 2025).
+NucNet (2025) 'Rosatom files suit over abandoned Hanhikivi‑1 nuclear project', *NucNet*, 6 May. Available at: [https://www.nucnet.org/news/rosatom-has-filed-lawsuit-over-abandoned-hanhikivi-1-nuclear-project-in-finland-reports-say-5-2-2025](https://www.nucnet.org/news/rosatom-has-filed-lawsuit-over-abandoned-hanhikivi-1-nuclear-project-in-finland-reports-say-5-2-2025) (Accessed: 9 May 2025).
 
-Reuters (2025) 'Russia’s Rosatom sues Finnish firms for $2.8B over nuclear plant cancellation', *Reuters*, 5 May. [Available at](https://www.reuters.com/business/energy/russias-rosatom-sues-finnish-firms-28-bln-over-nuclear-plant-contract-2025-05-05/) (Accessed: 9 May 2025).
+Reuters (2025) 'Russia’s Rosatom sues Finnish firms for $2.8B over nuclear plant cancellation', *Reuters*, 5 May. Available at: [https://www.reuters.com/business/energy/russias-rosatom-sues-finnish-firms-28-bln-over-nuclear-plant-contract-2025-05-05/](https://www.reuters.com/business/energy/russias-rosatom-sues-finnish-firms-28-bln-over-nuclear-plant-contract-2025-05-05/) (Accessed: 9 May 2025).
