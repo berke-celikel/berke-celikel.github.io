@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When a Gold Mine Turns Political: What *Barrick v. Mali* Tells Us About the Fragile Balance Between Sovereignty and Investor Rights"
+title: "When a Gold Mine Turns Political: What **Barrick v. Mali** Tells Us About the Fragile Balance Between Sovereignty and Investor Rights"
 subtitle: "Reflections on arbitration, state power, and the long shadow of gold"
 cover-img: /assets/img/barrick.jpeg
 thumbnail-img: /assets/img/barrick.jpeg
