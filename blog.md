@@ -4,9 +4,9 @@ title: Blog
 permalink: /blog/
 ---
 
-Welcome to my blog — a space dedicated to exploring **international arbitration**, **commercial law**, and **cross-border dispute resolution**.
+**Welcome to my blog—a space dedicated to international arbitration and commercial law.**
 
-Here you'll find commentary on landmark cases, treaty interpretation, and evolving legal frameworks in the global economy. Whether you're a legal practitioner, academic, or policy follower, this space offers concise and well-researched analysis grounded in international practice.
+Here you’ll find reflections on notable arbitral awards, treaty interpretation, and developments in the legal principles shaping global commerce. Whether you’re a practitioner, academic, or policy observer, this blog aims to offer clear and carefully researched insights grounded in international legal practice.
 
 ---
 
