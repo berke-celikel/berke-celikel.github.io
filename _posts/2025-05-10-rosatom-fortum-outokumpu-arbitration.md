@@ -9,8 +9,6 @@ tags: [Arbitration, ICC, Sanctions, Russia, Finland, Nuclear, Energy]
 author: Berke Celikel
 ---
 
-## Rosatom vs. Fortum & Outokumpu: The $2.8 B Nuclear Arbitration
-
 On **5 May 2025**, Russian state nuclear energy giant **Rosatom** initiated a $2.8 billion arbitration against Finnish companies **Fortum** and **Outokumpu**, alleging breach of contractual obligations tied to the **Hanhikivi‑1 nuclear power plant** (Reuters, 2025). The plant, a landmark joint venture between Russia and Finland, was part of an ambitious energy cooperation scheme that crumbled in the wake of **Russia's 2022 invasion of Ukraine** and subsequent **EU sanctions** (NucNet, 2025).
 
 This case, already drawing global attention, brings together the **geopolitics of war**, **transnational contract law**, and **energy security** into one high-stakes arbitration.
