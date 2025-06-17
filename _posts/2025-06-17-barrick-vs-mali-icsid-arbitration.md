@@ -8,9 +8,6 @@ excerpt: "Mali’s dramatic seizure of Barrick’s gold mine forces a reckoning 
 tags: [ICSID, Arbitration, Mining, Investor‑State, Africa, Barrick, Mali]
 author: Berke Celikel
 ---
-
-# When a Gold Mine Turns Political: What *Barrick v. Mali* Tells Us About the Fragile Balance Between Sovereignty and Investor Rights
-
 In mid-June 2025, something unusual happened in West Africa. A national court—in Bamako, Mali—effectively took over a major foreign-owned gold mine. Just like that.
 
 The Loulo–Gounkoto complex, one of Mali’s most productive and lucrative mining operations, was placed under provisional judicial administration. A former finance minister, Zoumana Makadji, was appointed to oversee the site for six months. The mine had been operated by Canadian mining giant Barrick Gold for over two decades. But as of June 16, it was, legally speaking, no longer in their hands (AP News, 2025).
