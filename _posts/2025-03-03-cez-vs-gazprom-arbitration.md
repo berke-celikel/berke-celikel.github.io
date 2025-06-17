@@ -9,8 +9,6 @@ tags: [Energy, Arbitration, Force Majeure, Gazprom, ICC, International Law]
 author: Berke Celikel
 ---
 
-## Commercial Deals Under Pressure: ČEZ’s ICC Win Against Gazprom
-
 When Russia’s invasion of Ukraine began in 2022, it triggered not just a geopolitical crisis, but a commercial one. Among the many European companies left scrambling to secure fuel amid plummeting deliveries was **ČEZ**, the Czech Republic’s state-backed utility.
 
 But unlike others, ČEZ took its supplier—**Gazprom Export**—to arbitration. And in **February 2025**, it won. An **ICC tribunal** awarded ČEZ roughly **$42 million** in damages, holding Gazprom liable for gas deliveries it had failed to supply during the **2022–2023 energy crisis** (Reuters, 2025).
