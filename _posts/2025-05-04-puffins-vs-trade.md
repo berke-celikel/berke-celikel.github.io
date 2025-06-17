@@ -9,8 +9,6 @@ tags: [Brexit, Trade, Environment, International Law, UK, EU]
 author: Berke Celikel
 ---
 
-## Puffins vs Trade: How a Tiny Fish Triggered the First Brexit Arbitration
-
 In 2024, the UK banned fishing for sand-eels — a slender forage fish critical to the diet of seabirds like puffins and kittiwakes. The decision, framed as an urgent step to protect marine biodiversity, quickly turned into a major international legal dispute. That’s because under the **EU–UK Trade and Cooperation Agreement (TCA)** — signed in the wake of Brexit — EU fishing vessels were still entitled to access certain UK waters until 2026.
 
 This culminated in a **landmark case** concluded by the **Permanent Court of Arbitration (PCA)** on 28 April 2025, marking the first formal arbitration under the post-Brexit trade framework.
