@@ -125,9 +125,9 @@ Daily Jus (2025) ‘Amsterdam Court of Appeal Grants Enforcement of ICC Award Ag
 
 Global Arbitration Review (2025) ‘Dutch court enforces against Iraqi state entity’, 4 March. [Available at](https://globalarbitrationreview.com/article/dutch-court-enforces-against-iraqi-state-entity) (Accessed: 15 March 2025).
 
-Guide to New York Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10) (Accessed: 15 March 2025).
+Guide to New York Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10&menu=730&opac_view=-1) (Accessed: 15 March 2025).
 
-Jus Mundi (2025) *Mammoet Salvage BV v Basra Oil Company BOC – DIFC Court Appeal Decision*, 27 January. [Available at](https://jusmundi.com/en/document/decision/en-mammoet-salvage-bv-v-basra-oil-company-boc) (Accessed: 15 March 2025).
+Jus Mundi (2025) *Mammoet Salvage BV v Basra Oil Company BOC – DIFC Court Appeal Decision*, 27 January. [Available at](https://jusmundi.com/en/document/decision/en-mammoet-salvage-bv-v-basra-oil-company-boc-reasons-for-the-order-of-the-court-of-appeal-of-the-dubai-international-financial-centre-courts-arb-004-2022-arb-005-2023-monday-27th-january-2025) (Accessed: 15 March 2025).
 
 Mondaq (2024) *An Appraisal of the Defence of Sovereign Immunity in the Enforcement of Foreign Arbitral Awards*, 15 May. [Available at](https://www.mondaq.com/trials-appeals-compensation/1465722/an-appraisal-of-defence-of-sovereign-immunity-in-the-enforcement-of-foreign-arbitral-awards) (Accessed: 15 March 2025).
 
