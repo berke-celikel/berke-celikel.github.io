@@ -19,7 +19,7 @@ An environmental dispute, yes. But also a trade disagreement. A sovereignty stor
 
 Let’s start with the basics. Sand-eels are forage fish—meaning, they exist largely to be eaten by others. In northern marine ecosystems, they are foundational. Puffins, in particular, rely on them during breeding season. Without sand-eels, puffin chicks starve. That’s not exaggeration; it's just... biology.
 
-Now, by early 2024, ecological pressures—warming seas, overfishing, changing currents—were already stressing these ecosystems. Seabird numbers, especially in the North Sea, had been falling for years. Scientists began sounding the alarm about sand-eel stocks too. In response, the UK banned industrial fishing for them in both Scottish and English waters ([Marine Management Organisation, 2024](https://www.gov.uk/government/publications/variation-issued-tuesday-26-march-2024-sandeel-closure-within-english-waters-of-ices-area-4)). It was described as a science-led, precautionary measure to preserve biodiversity. A decision that—at first glance—seemed uncontroversial, even commendable.
+Now, by early 2024, ecological pressures—warming seas, overfishing, changing currents—were already stressing these ecosystems. Seabird numbers, especially in the North Sea, had been falling for years. Scientists began sounding the alarm about sand-eel stocks too. In response, the UK banned industrial fishing for them in both Scottish and English waters (Marine Management Organisation, 2024). It was described as a science-led, precautionary measure to preserve biodiversity. A decision that—at first glance—seemed uncontroversial, even commendable.
 
 But then came the fine print.
 
@@ -33,7 +33,7 @@ Here’s where things got thorny.
 
 The EU’s core argument was simple: the UK had acted unilaterally, without adequate consultation or justification, and therefore had breached the agreement. They weren’t challenging the idea of conservation per se—but rather the method, the manner, the... timing.
 
-The UK countered that it had every right to take urgent environmental action, especially when backed by strong science. And in fairness, there was a mountain of ecological data pointing to the vulnerability of sand-eel populations and the cascading risks to puffins and other birds ([Marine Management Organisation, 2024](https://www.gov.uk/government/publications/variation-issued-tuesday-26-march-2024-sandeel-closure-within-english-waters-of-ices-area-4)). 
+The UK countered that it had every right to take urgent environmental action, especially when backed by strong science. And in fairness, there was a mountain of ecological data pointing to the vulnerability of sand-eel populations and the cascading risks to puffins and other birds (Marine Management Organisation, 2024). 
 
 But law is not just about having the facts on your side. It’s about process. About balance. About framing the facts in a way that doesn’t trample existing obligations—particularly to others.
 
@@ -50,7 +50,7 @@ Each of these questions required parsing not just the legal text of the TCA, but
 
 The tribunal’s ruling, delivered in April 2025, was neither a victory lap for the UK nor a vindication for the EU. It was nuanced—almost to a fault.
 
-On the one hand, the UK won some important points. The tribunal found that the sand-eel ban was based on credible scientific evidence and applied equally to UK and EU vessels. There was no discriminatory intent, no favoritism toward domestic fleets ([Permanent Court of Arbitration, 2025b, pp. 120–160](https://pcacases.com/web/sendAttach/70467)). That’s not insignificant—many environmental measures fail precisely because they mask protectionism under the guise of ecology.
+On the one hand, the UK won some important points. The tribunal found that the sand-eel ban was based on credible scientific evidence and applied equally to UK and EU vessels. There was no discriminatory intent, no favoritism toward domestic fleets (Permanent Court of Arbitration, 2025b, pp. 120–160). That’s not insignificant—many environmental measures fail precisely because they mask protectionism under the guise of ecology.
 
 But on proportionality, things got trickier.
 
@@ -66,7 +66,7 @@ One could see this as a technicality—a split verdict about a fishing ban few p
 
 This was the first test of the legal machinery underpinning the TCA. And that machinery worked. There were no screaming headlines, no retaliatory tariffs, no threat to walk away from the deal. Just lawyers, scientists, hearings, and—eventually—a reasoned ruling that both sides accepted. No small feat, given the combative tone of much of the post-Brexit relationship.
 
-More subtly, the case drew a map for future environmental policy within trade frameworks. The tribunal affirmed that countries *can* enact conservation measures—even unilaterally—*if* they follow proper process: use good science, avoid discrimination, consult meaningfully, and weigh the economic impacts on others. In that sense, the decision supports environmental ambition—but demands legal discipline ([European Commission, 2024](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_2050/IP_24_2050_EN.pdf); [Permanent Court of Arbitration, 2025a](https://pca-cpa.org/en/cases/334/)).
+More subtly, the case drew a map for future environmental policy within trade frameworks. The tribunal affirmed that countries *can* enact conservation measures—even unilaterally—*if* they follow proper process: use good science, avoid discrimination, consult meaningfully, and weigh the economic impacts on others. In that sense, the decision supports environmental ambition—but demands legal discipline (European Commission, 2024).
 
 ## Trade Deals Meet Climate Reality
 
@@ -84,7 +84,7 @@ There’s also something oddly reassuring about the tone of the entire episode. 
 
 It was... professional. Procedural. Even a little boring, in the best way.
 
-Both sides used the tools they had agreed to. Both made their cases. And when the ruling came, neither side stormed out. The UK government acknowledged the result and promised to revise its justification ([UK Government, 2025](https://www.gov.uk/government/news/response-to-arbitration-tribunal-final-report-uk-sandeel-the-european-union-v-the-united-kingdom-of-great-britain-and-northern-ireland)). The EU, for its part, welcomed the legal clarity. Conservation groups like the RSPB cautiously praised the tribunal’s affirmation of science-based policy, while reminding governments not to skip the legal homework next time ([The Guardian, 2025](https://www.theguardian.com/environment/2025/may/02/uk-sand-eel-fishing-ban-despite-eu-legal-challenge)).
+Both sides used the tools they had agreed to. Both made their cases. And when the ruling came, neither side stormed out. The UK government acknowledged the result and promised to revise its justification (UK Government, 2025). The EU, for its part, welcomed the legal clarity. Conservation groups like the RSPB cautiously praised the tribunal’s affirmation of science-based policy, while reminding governments not to skip the legal homework next time (The Guardian, 2025).
 
 In a world awash with flashpoints, this sort of low-drama legalism might feel underwhelming. But it’s precisely what makes it important.
 
@@ -104,7 +104,7 @@ That balance is hard to strike. But it might just be the kind of balance we need
 
 - European Commission (2024) *EU requests consultations under Trade and Cooperation Agreement over UK’s permanent closure of the sandeel fishery*. Press release, 16 April. [Available at](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_2050/IP_24_2050_EN.pdf) (Accessed: 3 May 2025).
 
-- Marine Management Organisation (2024) *Variation issued: Tuesday 26 March 2024 – Sandeel closure within English waters of ICES Area 4*. GOV.UK. [Available at](https://www.gov.uk/government/publications/variation-issued-tuesday-26-march-2024-sandeel-closure-within-english-waters-of-ices-area-4) (Accessed: 3 May 2025).
+- Marine Management Organisation (2024) *Variation issued: Tuesday 26 March 2024 – Sandeel closure within English waters of ICES Area 4*. GOV.UK. [Available at](https://www.gov.uk/government/publications/fishing-vessel-licence-variations/variation-issued-tuesday-26-march-2024) (Accessed: 3 May 2025).
 
 - Permanent Court of Arbitration (2025a) *Case Summary: EU v UK – Sandeel Dispute*. [Available at](https://pca-cpa.org/en/cases/334/) (Accessed: 3 May 2025).
 
