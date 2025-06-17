@@ -1,93 +1,121 @@
 ---
 layout: post
-title: "Amsterdam Enforcement: Mammoet Triumphs Over Iraq’s BOC"
-subtitle: "A ruling that reaffirmed arbitration enforcement against state-linked debtors"
+title: "When the Gavel Falls on Sovereigns: What the Mammoet Case Teaches Us About Arbitration, Immunity, and the Limits of Power"
+subtitle: "A quiet but resounding affirmation of the rule of law in cross-border enforcement"
 cover-img: /assets/img/mammoet.jpg
 thumbnail-img: /assets/img/mammoet.jpg
-excerpt: "The Amsterdam Court of Appeal’s decision to enforce Mammoet’s ICC award against Iraq’s Basra Oil Company reinforces the limits of sovereign immunity under the New York Convention."
-tags: [Arbitration, Enforcement, Sovereign Immunity, New York Convention, Iraq]
+excerpt: "The Amsterdam Court of Appeal’s ruling in Mammoet v BOC is a reminder that state-linked debtors are not immune from arbitral enforcement—at least not when acting commercially."
+tags: [Arbitration, Sovereign Immunity, Enforcement, International Law, New York Convention]
 author: Berke Celikel
 ---
 
-In February 2025, the Amsterdam Court of Appeal ruled in favour of Dutch company Mammoet Salvage B.V., enforcing an ICC arbitral award against Iraq’s state-owned Basra Oil Company (BOC). The decision—arising from a long-running wreck-removal dispute—clarified how sovereign immunity, public policy, and the limits of judicial review operate under the **New York Convention**. It reinforced that state-linked debtors are not immune from the enforcement of commercial arbitration awards in Europe (Global Arbitration Review, 2025).
+There’s something quietly remarkable about watching international law hold firm. Not in theory—in seminars or policy white papers—but in actual practice, with real consequences. You don’t often see state-backed entities face the music in foreign courts. And yet, in February 2025, that’s exactly what happened in Amsterdam.
+
+A Dutch company, **Mammoet Salvage B.V.**, won a hard-fought legal battle against Iraq’s state-owned **Basra Oil Company (BOC)**. The Amsterdam Court of Appeal, in no uncertain terms, enforced a nearly **$48 million** arbitration award under the **New York Convention**.
+
+For many, it might have sounded procedural, even a little arcane. But look closer—it was anything but.
+
+This was a moment where law pushed back against power. Not to humiliate or punish, but to insist: a deal is a deal. Even when one side is a government.
 
 ---
 
-## The Contract and Arbitration
+## A Sunken Ship and the Contract That Followed It
 
-Mammoet and BOC entered into a contract in 2013 to remove a sunken vessel from Iraq’s territorial waters. The contract included an arbitration clause designating the **ICC** and **DIFC** as the arbitration seat. However, the relationship deteriorated following delays, alleged military interference by the Iraqi Navy, and payment disputes. Mammoet suspended operations and commenced ICC arbitration in 2018.
+Let’s rewind. Back in **2013**, Mammoet and BOC entered into a contract for the removal of a sunken vessel from Iraqi territorial waters. The agreement provided for arbitration under the **ICC**, with proceedings seated in the **Dubai International Financial Centre (DIFC)**.
 
-In 2021, the ICC tribunal issued a final award. It ordered BOC to pay Mammoet approximately **US $85 million**, offset by a **US $37 million** deduction due to BOC’s partial counterclaim—bringing the net award to nearly **US $48 million** (Daily Jus, 2025).
+But the project didn’t go to plan. There were delays. Allegations of interference by the Iraqi Navy surfaced. Payments stalled. By **2018**, Mammoet had suspended operations and taken the matter to arbitration.
 
----
+Three years later, in **2021**, the ICC tribunal issued its award: BOC was to pay Mammoet approximately **$85 million**, with a deduction for partial counterclaims. Net result? Roughly **$48 million** owed to the Dutch firm (Daily Jus, 2025).
 
-## Jurisdictional Fight: Dubai and Beyond
-
-BOC initially tried to annul the award in the **Dubai International Financial Centre (DIFC)** courts but failed. The DIFC Court of Appeal rejected its challenge in January 2025, holding that the tribunal had acted within its mandate and the award complied with the parties’ agreement (Jus Mundi, 2025).
-
-Mammoet then sought enforcement in the Netherlands, a jurisdiction where BOC allegedly held commercial assets.
+It could have ended there. It didn’t.
 
 ---
 
-## Enforcement and Objections in the Netherlands
+## The Battle Moves to the Courts
 
-On **11 February 2025**, the Amsterdam Court of Appeal considered three key objections raised by BOC:
+BOC challenged the award before the **DIFC courts**, hoping to set it aside. That didn’t work. In **January 2025**, the DIFC Court of Appeal upheld the award, concluding that the tribunal had stayed within its mandate and respected the procedural rules both parties had signed up for (Jus Mundi, 2025).
 
-### 1. **Excess of Jurisdiction**
-BOC argued that the ICC tribunal ruled on issues beyond its scope—particularly regarding military actions by the Iraqi Navy. The Court rejected this. It found that the arbitration focused on BOC’s contractual breaches, not acts of state (Global Arbitration Review, 2025).
-
-### 2. **Public Policy**
-BOC argued that enforcement of the award would contravene Dutch public policy, citing alleged corruption and procedural irregularities. The Amsterdam Court of Appeal firmly rejected this defence, emphasizing that:
-
-- The arbitral tribunal had already considered and addressed these allegations during the proceedings;  
-- BOC had been partially successful, receiving a reduction through its counterclaims, indicating that the process had been fair;  
-- No compelling evidence of fundamental unfairness or misconduct was presented that would satisfy the high threshold under Dutch law for refusing enforcement on public policy grounds (Daily Jus, 2025).
-
-### 3. **Sovereign Immunity**
-BOC invoked sovereign immunity under international law. The Court dismissed this by applying the **restrictive theory**: BOC acted in a **commercial capacity (jure gestionis)**, not in the exercise of sovereign authority (jure imperii). Consequently, immunity did not apply (Slaughter & May, 2025).
+Still undeterred, Mammoet then sought enforcement in the **Netherlands**—where, crucially, BOC was believed to have commercial assets. That step would trigger the ruling that’s now drawing international attention.
 
 ---
 
-## Enforcement Under the New York Convention
+## Three Defences, All Dismissed
 
-The Court’s reasoning aligned closely with **Article V** of the **New York Convention (1958)**, which outlines the only grounds on which a court may refuse enforcement of a foreign arbitral award. These include:
+On **11 February 2025**, the **Amsterdam Court of Appeal** handed down its judgment. BOC had raised three objections—each well-trodden in international arbitration, but each, in this case, ultimately unsuccessful.
 
-- Invalid arbitration agreement (Art. V(1)(a))  
-- Lack of notice or unfair hearing (Art. V(1)(b))  
-- Award exceeds the scope of submission (Art. V(1)(c))  
-- Improper composition of tribunal (Art. V(1)(d))  
-- Award is not binding or has been annulled (Art. V(1)(e))  
-- Public policy violation (Art. V(2)(b))  
+### 1. Excess of Jurisdiction
 
-Notably, courts may not review **errors of law or fact**—only threshold procedural and jurisdictional breaches. The Amsterdam Court reaffirmed this doctrine, noting that none of BOC’s arguments satisfied Article V thresholds (Guide to NY Convention, 2023).
+First, BOC claimed the tribunal had overstepped—especially in addressing military interference, which, they argued, fell squarely within sovereign prerogatives. But the Dutch court didn’t buy it. The arbitration, it said, dealt primarily with **contractual obligations**, not acts of state (Global Arbitration Review, 2025).
 
----
+### 2. Public Policy
 
-## Key Lesson: Sovereign Immunity and Commercial Acts
+Next, BOC raised the ever-flexible shield of **public policy**. Allegations of corruption, procedural irregularities, and broader unfairness were all invoked. The court, however, pushed back—firmly.
 
-The judgment reiterates that **state-owned enterprises** are subject to arbitration enforcement when acting commercially. This applies regardless of political sensitivity. BOC’s status as a national oil company did not insulate it from obligations freely undertaken under an international contract.
+Yes, public policy is a recognised ground under **Article V(2)(b)** of the New York Convention. But it’s also narrowly construed. Dutch courts, like many others in Europe, will only refuse enforcement if there’s a serious breach of **fundamental fairness**—not just an unsatisfying outcome (Daily Jus, 2025).
 
----
+And here?
+- The tribunal had already dealt with the allegations during the hearings.
+- BOC had, in fact, *partially* succeeded in its counterclaims.
+- No compelling evidence of procedural injustice was presented.
 
-## Public Policy: A Narrow Gateway
+### 3. Sovereign Immunity
 
-The case further narrows the use of public policy exceptions. Courts will not entertain speculative or weakly evidenced claims. Public policy defences require violations of **fundamental fairness**, not tactical complaints post-award (Mondaq, 2024).
+Finally, BOC turned to **sovereign immunity**. A more principled objection, at least on the surface. But again, the court was unmoved.
 
----
-
-## Why This Case Matters
-
-- **Investor Certainty**: It sends a strong message to contractors and foreign investors: arbitral awards can be enforced against state-linked parties in European jurisdictions.
-
-- **Judicial Restraint**: It affirms courts' limited review powers under the New York Convention—maintaining arbitral finality and predictability.
-
-- **Rule-of-Law in Action**: The ruling is a victory for international legal frameworks that prioritise commercial justice over geopolitical protectionism.
+It applied the **restrictive theory** of state immunity: when states or their entities act **commercially (jure gestionis)**, they are not shielded by sovereign protections. BOC had entered into a commercial contract. Immunity didn’t apply (Slaughter & May, 2025).
 
 ---
 
-## Conclusion: Enforcement Against State-Affiliated Entities
+## The New York Convention: A Framework Holds Firm
 
-*Mammoet v BOC* is more than a salvage dispute—it is a case about how international law disciplines state-linked commercial actors. It confirms that when state-owned enterprises and other government-affiliated entities enter into commercial contracts, they are bound by their agreements and subject to international enforcement mechanisms. Under the New York Convention, the path from arbitral award to court order is not always easy—but in rule-of-law jurisdictions like the Netherlands, it remains reliably open.
+The ruling reflects the strength and clarity of the **New York Convention (1958)**—an international treaty that has endured for over six decades, and for good reason. Article V outlines limited, procedural grounds for refusing enforcement:
+
+- Invalid arbitration agreement (Art. V(1)(a))
+- Improper notice (Art. V(1)(b))
+- Award exceeded scope (Art. V(1)(c))
+- Tribunal not properly constituted (Art. V(1)(d))
+- Award not binding or annulled (Art. V(1)(e))
+- Violation of public policy (Art. V(2)(b))
+
+But courts cannot review errors of **law or fact**. The Amsterdam Court respected this limit (Guide to New York Convention, 2023).
+
+---
+
+## Why This Case Resonates
+
+On the surface, *Mammoet v BOC* is about a sunken ship. But underneath, it’s about something larger: **the accountability of state-linked actors in commercial disputes**.
+
+The decision matters because:
+- **Foreign investors** often contract with state entities in high-risk environments.
+- **Enforcement** of arbitral awards is critical to commercial confidence.
+- **Courts** that stand firm on treaty principles signal legal reliability.
+
+This ruling shows that arbitration isn’t a hollow promise. Not in Amsterdam, at least.
+
+---
+
+## Public Policy: Not a Loophole for the Losing Party
+
+There’s always a temptation—after losing an arbitration—to argue that something just didn’t feel right. That the tribunal misunderstood, or that procedural quirks made the outcome unjust. But courts are increasingly skeptical.
+
+As this ruling shows, public policy defences require **clear, specific evidence** of **fundamental unfairness**, not vague dissatisfaction (Mondaq, 2024).
+
+---
+
+## A Quiet Affirmation of Legal Order
+
+What makes this case powerful is its **normalcy**. The court didn’t grandstand. It didn’t politicize. It applied treaty law, tested the objections, and ruled accordingly.
+
+In doing so, it delivered a message:  
+**State ownership does not equal immunity. A commercial contract is still a contract.**
+
+---
+
+## Conclusion: When Law Meets Sovereignty
+
+The *Mammoet* ruling isn’t revolutionary. But it is important. It reinforces the idea that **international arbitration still works**, even when one party wears a sovereign badge.
+
+Yes, enforcement paths can be uneven. But in rule-of-law jurisdictions, the road remains open. For investors, contractors, and practitioners alike, that offers a measure of certainty worth remembering.
 
 ---
 
