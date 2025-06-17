@@ -132,7 +132,6 @@ The arbitration may set precedent on:
 - The scope of state authority under revised mining codes;
 - The limits of **regulatory discretion** under investment treaties;
 - How ICSID tribunals balance **economic sovereignty** against treaty protections in **transitional legal systems**.
-
 As African states increasingly recalibrate resource governance through revised codes and renegotiated fiscal regimes, *Barrick v Mali* may be remembered as a watershed case defining how far those states can go without triggering treaty liability.
 ---
 
