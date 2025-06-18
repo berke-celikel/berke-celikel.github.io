@@ -11,7 +11,7 @@ author: Berke Celikel
 
 *Wait, how did we get here again?*
 
-I still remember scrolling through the **Reuters** ticker last November and spotting a headline that looked almost... anachronistic: _Telefónica bags US$380 million after an ICSID fight with Colombia_. My first reaction—maybe yours too—was the usual shrug: investor–state cases pop up all the time. But a second later, something about the number (huge) and the sector (telecoms, with its labyrinth of concessions and licences) nudged me to read on ([Reuters, 2024](https://www.reuters.com/business/media-telecom/telefonica-awarded-380-million-colombian-government-arbitration-company-says-2024-11-13/)).
+I still remember scrolling through the **Reuters** ticker last November and spotting a headline that looked almost... anachronistic: _Telefónica bags US$380 million after an ICSID fight with Colombia_. My first reaction—maybe yours too—was the usual shrug: investor–state cases pop up all the time. But a second later, something about the number (huge) and the sector (telecoms, with its labyrinth of concessions and licences) nudged me to read on (Reuters, 2024).
 
 Seven months later, the award is still sparking conversation in Bogotá coffee shops and Madrid law firms alike. Some hail it as proof that BITs keep governments honest. Others mutter about "regulatory chill"—the worry that fear of arbitration stunts legitimate policymaking. I find myself oscillating between those poles, half-persuaded by each side depending on the time of day and the strength of my espresso.
 
@@ -21,7 +21,7 @@ Seven months later, the award is still sparking conversation in Bogotá coffee s
 
 Telefónica’s Colombian adventure began in the _pre-smartphone_ era, when copper wires and analogue switches still felt modern. Over the decades, the Spanish giant poured capital—and no small amount of managerial patience—into local networks.
 
-The deal, at least on paper, was straightforward: keep building, keep serving, and when the concession term ran out, certain assets might “revert” to the state. Except that in 1998 and again in 2009 Colombia tweaked its laws to remove that reversion clause. Telefónica, breathing easier, planned accordingly ([El País, 2024](https://elpais.com/economia/2024-11-13/telefonica-recuperara-cerca-de-500-millones-por-su-litigio-con-colombia.html)).
+The deal, at least on paper, was straightforward: keep building, keep serving, and when the concession term ran out, certain assets might “revert” to the state. Except that in 1998 and again in 2009 Colombia tweaked its laws to remove that reversion clause. Telefónica, breathing easier, planned accordingly (El País, 2024).
 
 Then came 2013, when the national Comptroller’s Office abruptly dusted off the old reversion language and insisted both Telefónica and América Móvil (Claro) owed hundreds of millions in back payments. Court battles rumbled on. Domestic avenues fizzled. By February 2018, Telefónica pulled the emergency cord: ICSID arbitration under the **Spain–Colombia BIT (2005)**.
 
@@ -147,10 +147,10 @@ Maybe this case won’t change everything. But it’s one more signal that in an
 
 - **Global Arbitration Review** (2024) ‘Telefónica wins ICSID award against Colombia’. [Available at](https://globalarbitrationreview.com/article/telefonica-wins-icsid-award-against-colombia).
 
-- **El País** (2024) ‘Telefónica recuperará cerca de 500 millones por su litigio con Colombia’. [Available at](https://elpais.com/economia/2024-11-13/telefonica-recuperara-cerca-de-500-millones-por-su-litigio-con-colombia.html).
+- **El País** (2024) ‘Telefónica recuperará cerca de 500 millones por su litigio con Colombia’. [Available at](https://elpais.com/economia/2024-11-13/telefonica-recuperara-cerca-de-475-millones-de-euros-tras-ganar-un-arbitraje-a-colombia.html).
 
-- **ICSID** (2022) ‘Recognition and Enforcement – Article 54’. [Available at](https://icsid.worldbank.org/resources/rules-and-regulations/convention/article-54).
+- **ICSID** (2022) ‘Recognition and Enforcement – Article 54’. [Available at](https://icsid.worldbank.org/procedures/arbitration/convention/recognition-enforcement).
 
-- **Tecmed v Mexico** (2003) Award text via Jus Mundi. [Available at](https://jusmundi.com/en/document/decision/en-tecnicas-medioambientales-tecmed-s-a-v-united-mexican-states-award-tuesday-29th-may-2003).
+- **Tecmed v Mexico** (2003) Award text via Jus Mundi. [Available at](https://jusmundi.com/en/document/decision/en-tecnicas-medioambientales-tecmed-v-united-mexican-states-award-thursday-29th-may-2003).
 
-- **BLG Insight** (2025) ‘Colombia’s response to unfavourable investment arbitration’. [Available at](https://www.blg.com/en/insights/2025/01/colombias-response-to-unfavourable-investment-arbitration).
+- **BLG Insight** (2025) ‘Colombia’s response to unfavourable investment arbitration’. [Available at](https://www.blg.com/en/insights/2025/05/colombias-response-to-unfavourable-investment-arbitration).
