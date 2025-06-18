@@ -11,9 +11,9 @@ author: Berke Celikel
 
 *Wait, how did we get here again?*
 
-I still remember scrolling through the **Reuters** ticker last November and spotting a headline that looked almost... anachronistic: _Telefónica bags US$380 million after an ICSID fight with Colombia_. My first reaction—maybe yours too—was the usual shrug: investor–state cases pop up all the time. But a second later, something about the number (huge) and the sector (telecoms, with its labyrinth of concessions and licences) nudged me to read on (Reuters, 2024).
+Scrolling through the **Reuters** ticker this week, I spotted a headline that felt oddly anachronistic: _Telefónica bags US$380 million after an ICSID fight with Colombia_. At first glance, it seemed routine—another investor–state case, another chunk of taxpayer money at stake. But something about the size of the award (huge) and the sector (telecom, with all its regulatory entanglements) gave me pause (Reuters, 2024).
 
-Seven months later, the award is still sparking conversation in Bogotá coffee shops and Madrid law firms alike. Some hail it as proof that BITs keep governments honest. Others mutter about "regulatory chill"—the worry that fear of arbitration stunts legitimate policymaking. I find myself oscillating between those poles, half-persuaded by each side depending on the time of day and the strength of my espresso.
+The more I read, the clearer it became: this case wasn’t just big, it was... familiar. And for policymakers, lawyers, and maybe even the odd telecoms executive, it’s a story that merits more than a headline skim.
 
 ---
 
@@ -43,7 +43,7 @@ For trivia buffs, the damages line read precisely **US$379,804,275.55**. Colombi
 
 BITs promise a lot—expropriation protection, non-discrimination, capital transfer rights—but **FET** is the crown jewel.
 
-It’s been stretched over time to mean regulatory transparency, due process, protection of legitimate expectations. *Tecmed v. Mexico* remains the doctrinal anchor: investors are entitled to rely on the legal and regulatory framework in place when they commit capital (Tecmed v Mexico, 2003).
+It’s been stretched over time to mean regulatory transparency, due process, protection of legitimate expectations. *Tecmed v. Mexico* remains the doctrinal anchor: investors are entitled to rely on the legal and regulatory framework in place when they commit capital (Tecmed v Mexico, 2003)).
 
 That was Telefónica’s argument in a nutshell. They relied on regulatory commitments, then saw them reversed without clear justification or process. The tribunal agreed (Global Arbitration Review, 2024).
 
