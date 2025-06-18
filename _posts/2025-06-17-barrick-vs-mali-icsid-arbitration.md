@@ -104,16 +104,16 @@ But either way, this isn’t just about Barrick or gold or arbitration clauses. 
 
 ## References
 
-**AP News** (2025) 'Mali takes control of Canadian-owned Barrick Gold mine over tax dispute', *Associated Press*, 16 June. [Available at](https://apnews.com/article/f9675d1de1d7fefbade477dc1c3f3cc0) (Accessed: 17 June 2025).
+- **AP News** (2025) 'Mali takes control of Canadian-owned Barrick Gold mine over tax dispute', *Associated Press*, 16 June. [Available at](https://apnews.com/article/f9675d1de1d7fefbade477dc1c3f3cc0) (Accessed: 17 June 2025).
 
-**Barrick Gold Corporation** (2025) ‘Barrick Holding Firm Through ICSID Arbitration Amid Malian Court Ruling’, *Press Release*, 16 June. [Available at](https://www.barrick.com/English/news/news-details/2025/barrick-holding-firm-through-ICSID-arbitration-amid-malian-court-ruling/default.aspx) (Accessed: 17 June 2025).
+- **Barrick Gold Corporation** (2025) ‘Barrick Holding Firm Through ICSID Arbitration Amid Malian Court Ruling’, *Press Release*, 16 June. [Available at](https://www.barrick.com/English/news/news-details/2025/barrick-holding-firm-through-ICSID-arbitration-amid-malian-court-ruling/default.aspx) (Accessed: 17 June 2025).
 
-**Financial Times** (2025) ‘Mali court deals blow to Barrick Mining in dispute over gold project’, *Financial Times*, 16 June. [Available at](https://www.ft.com/content/f0201cc6-298c-456e-9073-055edf5710f0) (Accessed: 17 June 2025).
+- **Financial Times** (2025) ‘Mali court deals blow to Barrick Mining in dispute over gold project’, *Financial Times*, 16 June. [Available at](https://www.ft.com/content/f0201cc6-298c-456e-9073-055edf5710f0) (Accessed: 17 June 2025).
 
-**Reuters** (2024) ‘Barrick Gold seeks arbitration over Mali gold mine dispute’, *Reuters*, 18 December. [Available at](https://www.reuters.com/markets/commodities/barrick-gold-initiates-arbitration-over-mali-operations-dispute-2024-12-18/) (Accessed: 17 June 2025).
+- **Reuters** (2024) ‘Barrick Gold seeks arbitration over Mali gold mine dispute’, *Reuters*, 18 December. [Available at](https://www.reuters.com/markets/commodities/barrick-gold-initiates-arbitration-over-mali-operations-dispute-2024-12-18/) (Accessed: 17 June 2025).
 
-**Reuters** (2025a) ‘Barrick Mining’s gold complex placed under state control in Mali’, *Reuters*, 16 June. [Available at](https://www.reuters.com/world/africa/mali-court-appoints-provisional-administrator-run-barrick-minings-complex-2025-06-16/) (Accessed: 17 June 2025).
+- **Reuters** (2025a) ‘Barrick Mining’s gold complex placed under state control in Mali’, *Reuters*, 16 June. [Available at](https://www.reuters.com/world/africa/mali-court-appoints-provisional-administrator-run-barrick-minings-complex-2025-06-16/) (Accessed: 17 June 2025).
 
-**Reuters** (2025b) ‘Barrick Mining removes Mali gold complex from 2025 output forecast, sources say’, *Reuters*, 11 June. [Available at](https://www.reuters.com/world/africa/barrick-mining-removes-mali-gold-complex-2025-output-forecast-sources-say-2025-06-11/) (Accessed: 17 June 2025).
+- **Reuters** (2025b) ‘Barrick Mining removes Mali gold complex from 2025 output forecast, sources say’, *Reuters*, 11 June. [Available at](https://www.reuters.com/world/africa/barrick-mining-removes-mali-gold-complex-2025-output-forecast-sources-say-2025-06-11/) (Accessed: 17 June 2025).
 
-**Reuters** (2025c) ‘Barrick asks World Bank court to intervene in Mali proceedings’, *Reuters*, 29 May. [Available at](https://www.reuters.com/world/africa/barrick-asks-world-bank-court-intervene-mali-proceedings-2025-05-29/) (Accessed: 17 June 2025).
+- **Reuters** (2025c) ‘Barrick asks World Bank court to intervene in Mali proceedings’, *Reuters*, 29 May. [Available at](https://www.reuters.com/world/africa/barrick-asks-world-bank-court-intervene-mali-proceedings-2025-05-29/) (Accessed: 17 June 2025).
