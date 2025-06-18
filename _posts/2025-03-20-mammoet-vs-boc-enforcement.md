@@ -121,16 +121,16 @@ Yes, enforcement paths can be uneven. But in rule-of-law jurisdictions, the road
 
 ## References
 
-Daily Jus (2025) ‘Amsterdam Court of Appeal Grants Enforcement of ICC Award Against Iraqi State Oil Company’, *Arbitration Aftermath*, 13 March. [Available at](https://dailyjus.com/world/2025/03/arbitration-aftermath-march-13-2025) (Accessed: 15 March 2025).
+- Daily Jus (2025) ‘Amsterdam Court of Appeal Grants Enforcement of ICC Award Against Iraqi State Oil Company’, *Arbitration Aftermath*, 13 March. [Available at](https://dailyjus.com/world/2025/03/arbitration-aftermath-march-13-2025) (Accessed: 15 March 2025).
 
-Global Arbitration Review (2025) ‘Dutch court enforces against Iraqi state entity’, 4 March. [Available at](https://globalarbitrationreview.com/article/dutch-court-enforces-against-iraqi-state-entity) (Accessed: 15 March 2025).
+- Global Arbitration Review (2025) ‘Dutch court enforces against Iraqi state entity’, 4 March. [Available at](https://globalarbitrationreview.com/article/dutch-court-enforces-against-iraqi-state-entity) (Accessed: 15 March 2025).
 
-Guide to New York Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10&menu=730&opac_view=-1) (Accessed: 15 March 2025).
+- Guide to New York Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10&menu=730&opac_view=-1) (Accessed: 15 March 2025).
 
-Jus Mundi (2025) *Mammoet Salvage BV v Basra Oil Company BOC – DIFC Court Appeal Decision*, 27 January. [Available at](https://jusmundi.com/en/document/decision/en-mammoet-salvage-bv-v-basra-oil-company-boc-reasons-for-the-order-of-the-court-of-appeal-of-the-dubai-international-financial-centre-courts-arb-004-2022-arb-005-2023-monday-27th-january-2025) (Accessed: 15 March 2025).
+- Jus Mundi (2025) *Mammoet Salvage BV v Basra Oil Company BOC – DIFC Court Appeal Decision*, 27 January. [Available at](https://jusmundi.com/en/document/decision/en-mammoet-salvage-bv-v-basra-oil-company-boc-reasons-for-the-order-of-the-court-of-appeal-of-the-dubai-international-financial-centre-courts-arb-004-2022-arb-005-2023-monday-27th-january-2025) (Accessed: 15 March 2025).
 
-Mondaq (2024) *An Appraisal of the Defence of Sovereign Immunity in the Enforcement of Foreign Arbitral Awards*, 15 May. [Available at](https://www.mondaq.com/trials-appeals-compensation/1465722/an-appraisal-of-defence-of-sovereign-immunity-in-the-enforcement-of-foreign-arbitral-awards) (Accessed: 15 March 2025).
+- Mondaq (2024) *An Appraisal of the Defence of Sovereign Immunity in the Enforcement of Foreign Arbitral Awards*, 15 May. [Available at](https://www.mondaq.com/trials-appeals-compensation/1465722/an-appraisal-of-defence-of-sovereign-immunity-in-the-enforcement-of-foreign-arbitral-awards) (Accessed: 15 March 2025).
 
-Slaughter & May (2025) ‘Enforcement of Awards Against States: Exceptions to State Immunity’, 1 May. [Available at](https://www.slaughterandmay.com/insights/new-insights/enforcement-of-awards-against-states-exceptions-to-state-immunity) (Accessed: 15 March 2025).
+- Slaughter & May (2025) ‘Enforcement of Awards Against States: Exceptions to State Immunity’, 1 May. [Available at](https://www.slaughterandmay.com/insights/new-insights/enforcement-of-awards-against-states-exceptions-to-state-immunity) (Accessed: 15 March 2025).
 
-UNCITRAL (1958) *Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York)*. [Available at](https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards) (Accessed: 15 March 2025).
+- UNCITRAL (1958) *Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York)*. [Available at](https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards) (Accessed: 15 March 2025).
