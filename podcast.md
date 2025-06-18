@@ -11,21 +11,17 @@ permalink: /podcast/
   </a>
 </div>
 <h2 style="text-align: center; font-size: 2.2em; font-weight: 700; margin-top: 1em;">
-  Coming Soon
+  Coming in 2026
 </h2>
 
 <p style="text-align: center; font-size: 1.2em; max-width: 700px; margin: 1.5em auto;">
-  Get ready for a deep dive into the world of <strong>International Commercial Law</strong> and <strong>Arbitration</strong>.
-</p>
-
-<p style="text-align: center; font-size: 1.2em; max-width: 700px; margin: 1em auto;">
-  This upcoming podcast features engaging conversations with <strong>leading practitioners</strong>, <strong>arbitrators</strong>, and <strong>academics</strong> from around the globe. Together, we’ll explore the cases, questions, and trends shaping the future of cross-border dispute resolution.
+  A new podcast on International Commercial Law and Arbitration.
+Conversations with practitioners, arbitrators, and academics about the cases and developments shaping cross-border dispute resolution.
 </p>
 
 <p style="text-align: center; font-size: 1.2em; font-weight: 600; margin: 1em auto;">
-  🌍 Global voices. Real cases. Sharp insights.  
-  <br />
-  Streaming soon on <strong>Spotify</strong> and other major platforms.
+  🌍  Global voices. Clear perspectives. Real-world context.
+  Available soon on Spotify and other major platforms.
 </p>
 
 
