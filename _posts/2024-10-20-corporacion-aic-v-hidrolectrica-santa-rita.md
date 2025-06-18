@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Long Arm of Arbitration: What Corporación AIC v. Hidroeléctrica Santa Rita Tells Us About U.S. Deference, FCPA Friction, and Why Miami Still Matters"
+title: "The Long Arm of Arbitration: What Corporación AIC v. Hidroeléctrica Santa Rita Tells Us About U.S. Deference, FCPA Friction, and Why Miami Matters in International Arbitration"
 subtitle: "Eleventh Circuit reinforces arbitral autonomy, drawing lines around judicial review of international awards"
 cover-img: /assets/img/hydro.jpg
 thumbnail-img: /assets/img/hydro.jpg
