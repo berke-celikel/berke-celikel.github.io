@@ -118,8 +118,8 @@ We may get an answer. Or we may just get another exception. That, too, would be 
 
 ## References
 
-Guide to NY Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10&menu=730&opac_view=-1) (Accessed: 9 May 2025).
+- Guide to NY Convention (2023) *Article V – Grounds to Refuse Recognition and Enforcement*. [Available at](https://newyorkconvention1958.org/index.php?lvl=cmspage&pageid=10&menu=730&opac_view=-1) (Accessed: 9 May 2025).
 
-NucNet (2025) 'Rosatom files suit over abandoned Hanhikivi‑1 nuclear project', *NucNet*, 6 May. [Available at](https://www.nucnet.org/news/rosatom-has-filed-lawsuit-over-abandoned-hanhikivi-1-nuclear-project-in-finland-reports-say-5-2-2025) (Accessed: 9 May 2025).
+- NucNet (2025) 'Rosatom files suit over abandoned Hanhikivi‑1 nuclear project', *NucNet*, 6 May. [Available at](https://www.nucnet.org/news/rosatom-has-filed-lawsuit-over-abandoned-hanhikivi-1-nuclear-project-in-finland-reports-say-5-2-2025) (Accessed: 9 May 2025).
 
-Reuters (2025) 'Russia’s Rosatom sues Finnish firms for $2.8B over nuclear plant cancellation', *Reuters*, 5 May. [Available at](https://www.reuters.com/business/energy/russias-rosatom-sues-finnish-firms-28-bln-over-nuclear-plant-contract-2025-05-05/) (Accessed: 9 May 2025).
+- Reuters (2025) 'Russia’s Rosatom sues Finnish firms for $2.8B over nuclear plant cancellation', *Reuters*, 5 May. [Available at](https://www.reuters.com/business/energy/russias-rosatom-sues-finnish-firms-28-bln-over-nuclear-plant-contract-2025-05-05/) (Accessed: 9 May 2025).
