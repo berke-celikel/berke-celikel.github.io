@@ -29,7 +29,7 @@ Under Canada’s **Settlement of International Investment Disputes Act** (S.C. 2
 
 Rewind to **Cusco**—gateway to Machu Picchu, emblem of Andean tourism. Back in **2014**, Peru inked a concession with *Sociedad Aeroportuaria Kuntur Wasi* (a Peruvian-Argentine consortium led by **Corporación América**) to build the **Chinchero International Airport**. Less than three years later, citing construction delays and political headwinds, the government tore up the deal (ICSID Case No. ARB/18/27).
 
-Investors cried foul, invoked the **Argentina–Peru BIT**, and marched to Washington D.C. to file at ICSID in **July 2018**. After years of filings, hearings, and evidence, the tribunal ruled in May 2024: **US $91 million plus interest** awarded to claimants (Reuters, 2024; BNAmericas, 2024).
+Investors cried foul, invoked the **Argentina–Peru BIT**, and marched to Washington D.C. to file at ICSID in **July 2018**. After years of filings, hearings, and evidence, the tribunal ruled in May 2024: **US $91 million plus interest** awarded to claimants (BNAmericas, 2024).
 
 No annulment request followed. No appeals. Just—nothing.
 
@@ -106,10 +106,10 @@ And maybe, just maybe, next time a state considers ignoring an ICSID award… so
 ## References
 
 - BNAmericas (2024) ‘Peru ordered to pay over US$90 mn in Chinchero airport arbitration’. [Available at](https://www.bnamericas.com/en/news/peru-ordered-to-pay-over-us90mn-in-chinchero-airport-arbitration) (Accessed: 16 May 2025).
-- Daily Jus (2025) ‘Ontario Court Enforces USD 91 Million ICSID Award Against Peru’. [Available at](https://dailyjus.com/world/2025/05/arbitration-aftermath-may-22-2025) (Accessed: 16 May 2025).
-- Dietrich J. (2025) Endorsement Slip, Ontario Superior Court of Justice, 15 May.[Available at](https://jusmundi.com/en/document/decision/en-sociedad-aeroportuaria-kuntur-wasi-s-a-and-corporacion-america-s-a-v-republic-of-peru-endorsement-slip-ontario-superior-court-of-justice-thursday-15th-may-2025) (Accessed: 16 May 2025). 
-- Government of Canada (2008) *Settlement of International Investment Disputes Act*, S.C. 2008, c. 8. [Available at](https://laws-lois.justice.gc.ca/eng/acts/S-18.7/) (Accessed: 18 June 2025).
-- ICSID (1965) *ICSID Convention*. [Available at](https://icsid.worldbank.org/resources/rules-and-regulations/convention) (Accessed: 16 May 2025).
+- Daily Jus (2025) ‘Ontario Court Enforces USD 91 Million ICSID Award Against Peru’. [Available at](https://dailyjus.com/world/2025/05/arbitration-aftermath-may-22-2025) (Accessed: 23 May 2025).
+- Dietrich J. (2025) Endorsement Slip, Ontario Superior Court of Justice, 15 May.[Available at](https://www.italaw.com/sites/default/files/case-documents/italaw1826828.pdf) (Accessed: 16 May 2025). 
+- Global Arbitration Review (2025) ‘Canadian court enforces airport investor's award against Peru’. [Available at]([https://www.reuters.com/legal/ontario-court-enforces-icsid-award-against-peru-after-no-appearance-2025-05-15/](https://globalarbitrationreview.com/article/canadian-court-enforces-airport-investors-award-against-peru)) (Accessed: 17 May 2025).
+- Government of Canada (2008) *Settlement of International Investment Disputes Act*, S.C. 2008, c. 8. [Available at](https://laws.justice.gc.ca/eng/AnnualStatutes/2008_8/FullText.html) (Accessed: 18 June 2025).
+- ICSID (1965) *ICSID Convention*. [Available at](https://icsid.worldbank.org/sites/default/files/ICSID%20Convention%20English.pdf) (Accessed: 16 May 2025).
 - ICSID (2024) *Sociedad Aeroportuaria Kuntur Wasi S.A. and Corporación América S.A. v. Republic of Peru*, Award. [Available at](https://jusmundi.com/en/document/decision/en-sociedad-aeroportuaria-kuntur-wasi-s-a-and-corporacion-america-s-a-v-republic-of-peru-award-thursday-9th-may-2024) (Accessed: 16 May 2025).
-- Reuters (2024) ‘Peru ordered to pay concessionaire Kuntur Wasi US$91 mn’. [Available at](https://www.reuters.com/world/americas/peru-ordered-pay-concessionaire-kuntur-wasi-us91mn-2024-05-09/) (Accessed: 16 May 2025).
-- Reuters (2025) ‘Ontario court enforces ICSID award against Peru after no appearance’. [Available at](https://www.reuters.com/legal/ontario-court-enforces-icsid-award-against-peru-after-no-appearance-2025-05-15/) (Accessed: 16 May 2025).
+
