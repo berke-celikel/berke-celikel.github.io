@@ -11,7 +11,7 @@ author: Berke Celikel
 
 *Wait, how did we get here again?*
 
-Scrolling through the **Reuters** ticker this week, I spotted a headline that felt oddly anachronistic: _Telefónica bags US$380 million after an ICSID fight with Colombia_. At first glance, it seemed routine—another investor–state case, another chunk of taxpayer money at stake. But something about the size of the award (huge) and the sector (telecom, with all its regulatory entanglements) gave me pause (Reuters, 2024).
+Scrolling through the **Reuters** ticker this week, I spotted a headline that felt oddly anachronistic: _Telefónica bags US$380 million after an ICSID fight with Colombia_. At first glance, it seemed routine—another investor–state case, another award paid from public funds. But something about the size of the award (huge) and the sector (telecom, with all its regulatory entanglements) gave me pause (Reuters, 2024).
 
 The more I read, the clearer it became: this case wasn’t just big, it was... familiar. And for policymakers, lawyers, and maybe even the odd telecoms executive, it’s a story that merits more than a headline skim.
 
@@ -43,7 +43,7 @@ For trivia buffs, the damages line read precisely **US$379,804,275.55**. Colombi
 
 BITs promise a lot—expropriation protection, non-discrimination, capital transfer rights—but **FET** is the crown jewel.
 
-It’s been stretched over time to mean regulatory transparency, due process, protection of legitimate expectations. *Tecmed v. Mexico* remains the doctrinal anchor: investors are entitled to rely on the legal and regulatory framework in place when they commit capital (Tecmed v Mexico, 2003)).
+It’s been stretched over time to mean regulatory transparency, due process, protection of legitimate expectations. *Tecmed v. Mexico* remains the doctrinal anchor: investors are entitled to rely on the legal and regulatory framework in place when they commit capital (Tecmed v Mexico, 2003).
 
 That was Telefónica’s argument in a nutshell. They relied on regulatory commitments, then saw them reversed without clear justification or process. The tribunal agreed (Global Arbitration Review, 2024).
 
@@ -91,9 +91,7 @@ Colombia may now revise its BIT network, adopting more balanced language with ca
 
 ## América Móvil’s cautionary contrast
 
-In a twist, **América Móvil**—facing similar facts—*lost* its ICSID case against Colombia. Different treaty, different outcome. The US–Colombia FTA has narrower treatment standards. No broad FET language.
-
-This underscores how **treaty drafting** shapes results. “Shall” vs. “may.” “Fair” vs. “reasonable.” Words matter.
+In a twist, América Móvil filed its ICSID claim against Colombia under the Colombia–Mexico–Venezuela FTA (1994). Despite involving telecoms and investment claims, the tribunal ruled in Colombia’s favor. The treaty’s narrower provisions and absence of a broad FET clause likely influenced the outcome.
 
 ---
 
@@ -105,13 +103,10 @@ Spain’s response has been muted—measured. A quiet confidence that the rules,
 
 ---
 
-## The contradictions I can’t quite resolve
-
-When I defend investor protections, I remember a rural friend in Colombia still struggling for signal coverage—even with Telefónica in town.
-
-But when I lean into sovereignty arguments, I think of a start-up I once advised that backed out of Bogotá expansion plans after a regulatory pivot blindsided them.
-
-Both stories are true. That’s the paradox.
+## The contradictions are hard to ignore.
+Defenders of investor protections point to patchy infrastructure, regulatory instability, and treaty violations that can scare off even long-term investors.
+But sovereignty advocates raise real concerns too: how foreign claims can chill regulation, drain public budgets, or overlook local impact.
+Both perspectives have merit. That’s the paradox.
 
 ---
 
@@ -131,7 +126,7 @@ Both stories are true. That’s the paradox.
 
 ## A closing thought (subject to change)
 
-Investor–state arbitration is like scaffolding around a building under renovation: clunky, expensive, sometimes unsightly—but often necessary.
+Investor–state arbitration is clunky, costly, and far from perfect — but in some cases, it’s the only tool available to keep investment relationships from collapsing.
 
 *Telefónica v. Colombia* reminds us that regulatory shifts, no matter how well-intentioned, can trigger liability if they aren’t transparent or predictable.
 
