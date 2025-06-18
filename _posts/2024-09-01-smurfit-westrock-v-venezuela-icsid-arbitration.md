@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Happens When a Country Seizes Your Business? Smurfit Westrock and the Long Road to Justice"
-subtitle: "Behind the €469 million award against Venezuela lies a story of loss, law, and the slow machinery of international arbitration"
+subtitle: "Smurfit Westrock v. Venezuela: How International Law Responds to Unlawful Expropriation"
 cover-img: /assets/img/venezuela.jpg
 thumbnail-img: /assets/img/venezuela.jpg
 excerpt: "Smurfit Westrock won a half-billion-dollar ICSID award after Venezuela seized its assets in 2018. But winning isn't the same as getting paid."
@@ -37,7 +37,7 @@ Then came the long, procedural journey: tribunal constitution, jurisdictional ob
 
 Still, the central legal questions weren’t novel.
 
-- **Was there an expropriation?** Yes. The tribunal found Venezuela’s seizure met the classic criteria: deprivation of assets, no due process, no compensation.
+- **Was there an unlawful expropriation?** Yes. The tribunal found Venezuela’s seizure met the classic criteria: deprivation of assets, no due process, no compensation.
 - **Was Smurfit treated fairly?** No. The measures were opaque and discriminatory—violating the standard of fair and equitable treatment.
 - **Were repatriation rights breached?** Yes again. Venezuela restricted the transfer of dividends in violation of **Article 5** of the Treaty (Smurfit Westrock, 2024).
 
@@ -134,10 +134,10 @@ And perhaps that’s enough—for now.
 
 ## References
 
-ICSID Case No. ARB/18/49: Smurfit Holdings BV v. Bolivarian Republic of Venezuela, Award, 28 August 2024. [Available at](https://www.italaw.com/sites/default/files/case-documents/italaw182331.pdf)
+- ICSID Case No. ARB/18/49: Smurfit Holdings BV v. Bolivarian Republic of Venezuela, Award, 28 August 2024. [Available at](https://www.italaw.com/sites/default/files/case-documents/italaw182331.pdf)
 
-Reuters (2024) ‘Smurfit awarded $469 million against Venezuela by arbitration tribunal’, *Reuters*, 29 August. [Available at](https://www.reuters.com/business/smurfit-awarded-469-mln-against-venezuela-by-arbitration-tribunal-2024-08-29/) (Accessed: 30 August 2024).
+- Reuters (2024) ‘Smurfit awarded $469 million against Venezuela by arbitration tribunal’, *Reuters*, 29 August. [Available at](https://www.reuters.com/business/smurfit-awarded-469-mln-against-venezuela-by-arbitration-tribunal-2024-08-29/) (Accessed: 30 August 2024).
 
-Smurfit Westrock (2024) ‘Smurfit Westrock announces ICSID award in dispute with Venezuela’, Press Release, 29 August. [Available at](https://www.smurfitwestrock.com/newsroom/press-releases/smurfit-westrock-announces-icsid-award-in-dispute-with-venezuela) (Accessed: 30 August 2024).
+- Smurfit Westrock (2024) ‘Smurfit Westrock announces ICSID award in dispute with Venezuela’, Press Release, 29 August. [Available at](https://www.smurfitwestrock.com/newsroom/press-releases/smurfit-westrock-announces-icsid-award-in-dispute-with-venezuela) (Accessed: 30 August 2024).
 
-The Irish Times (2024) ‘Smurfit awarded €423m over Venezuela’s 2018 seizure of assets’, *Irish Times*, 30 August. [Available at](https://www.irishtimes.com/business/2024/08/30/smurfit-awarded-423m-over-venezuelas-2018-seizure-of-assets/) (Accessed: 30 August 2024).
+- The Irish Times (2024) ‘Smurfit awarded €423m over Venezuela’s 2018 seizure of assets’, *Irish Times*, 30 August. [Available at](https://www.irishtimes.com/business/2024/08/30/smurfit-awarded-423m-over-venezuelas-2018-seizure-of-assets/) (Accessed: 30 August 2024).
