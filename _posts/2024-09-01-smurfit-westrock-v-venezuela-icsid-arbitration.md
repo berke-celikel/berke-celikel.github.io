@@ -9,7 +9,7 @@ tags: [ICSID, Arbitration, Investment Law, Expropriation, Venezuela, Smurfit, In
 author: Berke Celikel
 ---
 
-On a late-summer day in August 2024, a decision landed that—though perhaps unnoticed by most outside of legal or financial circles—felt momentous. After nearly six years of arbitration, **Smurfit Westrock**, a paper and packaging giant with global operations, won an international legal battle against the Venezuelan government. The award? Just under half a billion dollars—**US$468.7 million**, plus costs and interest ([ICSID Case No. ARB/18/49, 2024](https://icsid.worldbank.org)).
+On a late-summer day in August 2024, a decision landed that—though perhaps unnoticed by most outside of legal or financial circles—felt momentous. After nearly six years of arbitration, **Smurfit Westrock**, a paper and packaging giant with global operations, won an international legal battle against the Venezuelan government. The award? Just under half a billion dollars—**US$468.7 million**, plus costs and interest (ICSID Case No. ARB/18/49, 2024).
 
 A big number. But behind it is a deeply layered story of state power, international law, economic desperation, and the enduring (if imperfect) promise of investor protection treaties. It’s also, more quietly, a reminder of how the law often functions not in grand pronouncements, but in slow, painstaking processes that outlive political cycles and even, occasionally, public memory.
 
@@ -21,7 +21,7 @@ Let’s unpack it.
 
 Back in **August 2018**, Venezuelan authorities entered and seized the local subsidiaries of **Smurfit Kappa**—the predecessor to what is now Smurfit Westrock. Paper mills, distribution facilities, equipment—taken over wholesale. No compensation. No legal justification. No time to prepare.
 
-To be fair, nationalizations weren’t new in Venezuela. Under Chávez, and later Maduro, expropriations became a central part of the state’s economic playbook. Oil, electricity, agriculture, telecoms—entire industries were brought under state control. Sometimes, arguably, in the name of ideology. Other times, perhaps more simply, to plug the holes in a collapsing economy ([Reuters, 2024](https://www.reuters.com/business/smurfit-awarded-469-mln-against-venezuela-by-arbitration-tribunal-2024-08-29/)).
+To be fair, nationalizations weren’t new in Venezuela. Under Chávez, and later Maduro, expropriations became a central part of the state’s economic playbook. Oil, electricity, agriculture, telecoms—entire industries were brought under state control. Sometimes, arguably, in the name of ideology. Other times, perhaps more simply, to plug the holes in a collapsing economy (Reuters, 2024).
 
 But here’s the legal rub: Venezuela had signed dozens of **bilateral investment treaties (BITs)** promising protection for foreign investors—protection against expropriation, unfair treatment, and barriers to moving capital out of the country.
 
@@ -39,7 +39,7 @@ Still, the central legal questions weren’t novel.
 
 - **Was there an expropriation?** Yes. The tribunal found Venezuela’s seizure met the classic criteria: deprivation of assets, no due process, no compensation.
 - **Was Smurfit treated fairly?** No. The measures were opaque and discriminatory—violating the standard of fair and equitable treatment.
-- **Were repatriation rights breached?** Yes again. Venezuela restricted the transfer of dividends in violation of **Article 5** of the Treaty ([Smurfit Westrock, 2024](https://www.smurfitwestrock.com/newsroom/press-releases/smurfit-westrock-announces-icsid-award-in-dispute-with-venezuela)).
+- **Were repatriation rights breached?** Yes again. Venezuela restricted the transfer of dividends in violation of **Article 5** of the Treaty (Smurfit Westrock, 2024).
 
 On **28 August 2024**, the award came down: **US$468.7 million**, plus **$4.5 million in costs and interest** from May 2024 until full payment.
 
@@ -134,7 +134,7 @@ And perhaps that’s enough—for now.
 
 ## References
 
-ICSID Case No. ARB/18/49: Smurfit Holdings BV v. Bolivarian Republic of Venezuela, Award, 28 August 2024.
+ICSID Case No. ARB/18/49: Smurfit Holdings BV v. Bolivarian Republic of Venezuela, Award, 28 August 2024. [Available at](https://www.italaw.com/sites/default/files/case-documents/italaw182331.pdf)
 
 Reuters (2024) ‘Smurfit awarded $469 million against Venezuela by arbitration tribunal’, *Reuters*, 29 August. [Available at](https://www.reuters.com/business/smurfit-awarded-469-mln-against-venezuela-by-arbitration-tribunal-2024-08-29/) (Accessed: 30 August 2024).
 
