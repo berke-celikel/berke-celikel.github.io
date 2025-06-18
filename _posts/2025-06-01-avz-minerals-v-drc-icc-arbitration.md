@@ -123,12 +123,8 @@ Because in disputes like these, the line between law and leverage is always thin
 
 ## References
 
-AVZ Minerals (2025) ‘Press Release of AVZ Minerals Limited on Temporary Suspension of the Arbitration to Facilitate Settlement Discussions’, 26 May. [Available at](https://jusmundi.com/en/document/other/en-avz-international-pty-ltd-dathcom-mining-sa-and-green-lithium-holdings-pte-ltd-v-democratic-republic-of-congo-press-release-of-avz-minerals-limited-on-temporary-suspension-of-the-arbitration-to-facilitate-settlement-discussions-monday-26th-may-2025#other_document_46000) (Accessed: 1 June 2025).  
-
-Reuters (2023) ‘Australia’s AVZ Minerals to file arbitration over contested Congo lithium mine’, *Reuters*, 30 October. [Available at](https://www.reuters.com/world/africa/australias-avz-minerals-file-arbitration-over-contested-congo-lithium-mine-2023-10-30/) (Accessed: 1 June 2025).  
-
-Reuters (2025) ‘Australia's AVZ Minerals scores legal victory against Congo over disputed lithium mine’, *Reuters*, 14 March. [Available at](https://www.reuters.com/markets/commodities/australias-avz-minerals-scores-legal-victory-against-congo-over-disputed-lithium-2025-03-14/) (Accessed: 1 June 2025). 
-
-Wikipedia (2025) *Manono-Kitolo mine*. [Available at](https://en.wikipedia.org/wiki/Manono-Kitolo_mine) (Accessed: 1 June 2025).  
-
-Jus Mundi (2025) *Case summary: AVZ and others v. DR Congo*. [Available at](https://jusmundi.com/en/document/other/en-avz-international-pty-ltd-dathcom-mining-sa-and-green-lithium-holdings-pte-ltd-v-democratic-republic-of-congo-press-release-of-avz-minerals-limited-on-drc-government-discussions-and-further-cominiere-breach-of-emergency-relief-monday-5th-august-2024) (Accessed: 1 June 2025).
+- AVZ Minerals (2025) ‘Press Release of AVZ Minerals Limited on Temporary Suspension of the Arbitration to Facilitate Settlement Discussions’, 26 May. [Available at](https://jusmundi.com/en/document/other/en-avz-international-pty-ltd-dathcom-mining-sa-and-green-lithium-holdings-pte-ltd-v-democratic-republic-of-congo-press-release-of-avz-minerals-limited-on-temporary-suspension-of-the-arbitration-to-facilitate-settlement-discussions-monday-26th-may-2025#other_document_46000) (Accessed: 1 June 2025).  
+- Reuters (2023) ‘Australia’s AVZ Minerals to file arbitration over contested Congo lithium mine’, *Reuters*, 30 October. [Available at](https://www.reuters.com/world/africa/australias-avz-minerals-file-arbitration-over-contested-congo-lithium-mine-2023-10-30/) (Accessed: 1 June 2025).  
+- Reuters (2025) ‘Australia's AVZ Minerals scores legal victory against Congo over disputed lithium mine’, *Reuters*, 14 March. [Available at](https://www.reuters.com/markets/commodities/australias-avz-minerals-scores-legal-victory-against-congo-over-disputed-lithium-2025-03-14/) (Accessed: 1 June 2025). 
+- Wikipedia (2025) *Manono-Kitolo mine*. [Available at](https://en.wikipedia.org/wiki/Manono-Kitolo_mine) (Accessed: 1 June 2025).  
+- Jus Mundi (2025) *Case summary: AVZ and others v. DR Congo*. [Available at](https://jusmundi.com/en/document/other/en-avz-international-pty-ltd-dathcom-mining-sa-and-green-lithium-holdings-pte-ltd-v-democratic-republic-of-congo-press-release-of-avz-minerals-limited-on-drc-government-discussions-and-further-cominiere-breach-of-emergency-relief-monday-5th-august-2024) (Accessed: 1 June 2025).
