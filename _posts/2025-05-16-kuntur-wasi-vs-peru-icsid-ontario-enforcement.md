@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kuntur Wasi v. Peru: When Silence Costs $91 Million"
+title: "Kuntur Wasi & Corporación América v. Republic of Peru: When Silence Costs $91 Million"
 subtitle: "The ICSID award, Canada’s enforcement, and what happens when a state stays quiet"
 cover-img: /assets/img/america.jpg
 thumbnail-img: /assets/img/america.jpg
