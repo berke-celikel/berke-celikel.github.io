@@ -19,10 +19,4 @@ permalink: /podcast/
 Conversations with practitioners, arbitrators, and academics about the cases and developments shaping cross-border dispute resolution.
 </p>
 
-<p style="text-align: center; font-size: 1.2em; font-weight: 600; margin: 1em auto;">
-  🌍  Global voices. Clear perspectives. Real-world context.
-  Available soon on Spotify and other major platforms.
-</p>
-
-
 
