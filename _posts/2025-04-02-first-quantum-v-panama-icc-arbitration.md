@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When a $20 Billion Arbitration Becomes a Diplomatic Tool: The Cobre Panamá Story"
+title: "When a $20 Billion Arbitration Becomes a Diplomatic Tool: La historia de Cobre Panamá"
 subtitle: "Why First Quantum walked away from arbitration—and what it really means"
 cover-img: /assets/img/panama.jpeg
 thumbnail-img: /assets/img/panama.jpeg
@@ -105,12 +105,12 @@ The underlying tension, though, remains unresolved. It probably always will be.
 
 ## References
 
-**FT** (2025) ‘Canadian copper miner drops $20bn arbitration demand against Panama’, *Financial Times*, 31 March. [Available at](https://www.ft.com/content/e6991976-bd73-4d5c-9002-393138e5f179) (Accessed: 2 April 2025).
+- **FT** (2025) ‘Canadian copper miner drops $20bn arbitration demand against Panama’, *Financial Times*, 31 March. [Available at](https://www.ft.com/content/e6991976-bd73-4d5c-9002-393138e5f179) (Accessed: 2 April 2025).
 
-**Reuters** (2025a) ‘First Quantum to discontinue two Cobre Panama arbitration proceedings’, *Reuters*, 1 April. [Available at](https://www.reuters.com/markets/commodities/first-quantum-discontinue-two-cobre-panama-arbitration-proceedings-2025-03-31/) (Accessed: 2 April 2025).
+- **Reuters** (2025a) ‘First Quantum to discontinue two Cobre Panama arbitration proceedings’, *Reuters*, 1 April. [Available at](https://www.reuters.com/markets/commodities/first-quantum-discontinue-two-cobre-panama-arbitration-proceedings-2025-03-31/) (Accessed: 2 April 2025).
 
-**Reuters** (2025b) ‘Cobre Panama mine ready to suspend arbitration against Panama’, *Reuters*, 14 March. [Available at](https://www.reuters.com/markets/commodities/cobre-panama-ready-start-suspending-arbitration-against-panama-2025-03-14/) (Accessed: 2 April 2025).
+- **Reuters** (2025b) ‘Cobre Panama mine ready to suspend arbitration against Panama’, *Reuters*, 14 March. [Available at](https://www.reuters.com/markets/commodities/cobre-panama-ready-start-suspending-arbitration-against-panama-2025-03-14/) (Accessed: 2 April 2025).
 
-**SEC** (2024) ‘First Quantum Minerals Ltd, Current Report on Form 6-K: Notice of arbitration intentions’, U.S. Securities and Exchange Commission, September 2024. [Available at](https://www.sec.gov/Archives/edgar/data/76027/000119312524229126/d856242dex99d.htm) (Accessed: 1 April 2025).
+- **SEC** (2024) ‘First Quantum Minerals Ltd, Current Report on Form 6-K: Notice of arbitration intentions’, U.S. Securities and Exchange Commission, September 2024. [Available at](https://www.sec.gov/Archives/edgar/data/76027/000119312524229126/d856242dex99d.htm) (Accessed: 1 April 2025).
 
-**Wikipedia** (2025) *2023 Panamanian protests*. [Available at](https://en.wikipedia.org/wiki/2023_Panamanian_protests) (Accessed: 1 April 2025).
+- **Wikipedia** (2025) *2023 Panamanian protests*. [Available at](https://en.wikipedia.org/wiki/2023_Panamanian_protests) (Accessed: 1 April 2025).
