@@ -35,7 +35,7 @@ But AIC was unsatisfied. They went to the U.S. District Court in the Southern Di
 
 AIC’s grievances were not entirely frivolous—at least, not on their face.
 
-First, they had wanted to join a subcontractor, Novacom, into the arbitration. The tribunal said no, citing a lack of contractual or procedural basis under ICC Rules. AIC saw this as a denial of justice. But the court disagreed. Joinder is not automatic; the tribunal had applied the rules it was empowered to apply. That was enough ([SGR Insights, 2024](https://www.sgrlaw.com/client-alerts/hidroelectrica-eleventh-circuit-case/)).
+First, they had wanted to join a subcontractor, Novacom, into the arbitration. The tribunal said no, citing a lack of contractual or procedural basis under ICC Rules. AIC saw this as a denial of justice. But the court disagreed. Joinder is not automatic; the tribunal had applied the rules it was empowered to apply. That was enough (SGR Insights, 2024).
 
 Second, AIC argued that Santa Rita had violated the contract’s anti-corruption clause, which made reference to compliance with the U.S. Foreign Corrupt Practices Act (FCPA). Bribery, they alleged—though the evidence was, at best, thin. The tribunal acknowledged the clause but found no breach and, crucially, declined to enforce the FCPA, citing the statute’s lack of a private right of action.
 
