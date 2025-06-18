@@ -2,8 +2,8 @@
 layout: post
 title: "Telefónica v. Colombia: A $380 Million Reminder That BITs Still Bite"
 subtitle: "Reflecting on a major ICSID award, investor expectations, and the uneasy balance of public policy in the telecom sector"
-cover-img: assets/img/telefonica.jpeg
-thumbnail-img: assets/img/telefonica.jpeg
+cover-img: /assets/img/tele.jpeg
+thumbnail-img: /assets/img/tele.jpeg
 excerpt: "A $380 million ICSID award in favour of Telefónica offers a moment to pause and reflect on investor protections, regulatory surprises, and why treaty language still matters."
 tags: [ICSID, Arbitration, Telecom, BIT, Colombia, Spain, FET]
 author: Berke Celikel
