@@ -108,12 +108,12 @@ The takeaway? **Crisis doesn’t silence contracts. It amplifies them**. And whe
 
 ## References
 
-Global Arbitration Review (2025) ‘Czech energy group declares win against Gazprom’, 26 February. [Available at](https://globalarbitrationreview.com/article/czech-energy-group-declares-win-against-gazprom) (Accessed: 3 March 2025).
+- Global Arbitration Review (2025) ‘Czech energy group declares win against Gazprom’, 26 February. [Available at](https://globalarbitrationreview.com/article/czech-energy-group-declares-win-against-gazprom) (Accessed: 3 March 2025).
 
-ICC Reporter (2025) ‘ICC tribunal awards CEZ damages over Russian gas shortfall’, *International Arbitration Monitor*, March. [Available at](https://arbitrationmonitor.com/gazprom-suffers-major-arbitration-loss-at-the-icc/) (Accessed: 3 March 2025).
+- ICC Reporter (2025) ‘ICC tribunal awards CEZ damages over Russian gas shortfall’, *International Arbitration Monitor*, March. [Available at](https://arbitrationmonitor.com/gazprom-suffers-major-arbitration-loss-at-the-icc/) (Accessed: 3 March 2025).
 
-Reuters (2025) ‘ČEZ wins arbitration against Gazprom’, *Reuters*, 26 February. [Available at](https://www.reuters.com/business/energy/cez-wins-arbitration-against-gazprom-2025-02-26/) (Accessed: 3 March 2025).
+- Reuters (2025) ‘ČEZ wins arbitration against Gazprom’, *Reuters*, 26 February. [Available at](https://www.reuters.com/business/energy/cez-wins-arbitration-against-gazprom-2025-02-26/) (Accessed: 3 March 2025).
 
-Reuters (2024) ‘ICC tribunal bans Gazprom from bringing gas dispute to Russian court’, *Reuters*, 24 May. [Available at](https://www.reuters.com/business/energy/cez-icc-tribunal-bans-gazprom-placing-gas-dispute-russian-court-2024-05-24/) (Accessed: 3 March 2025).
+- Reuters (2024) ‘ICC tribunal bans Gazprom from bringing gas dispute to Russian court’, *Reuters*, 24 May. [Available at](https://www.reuters.com/business/energy/cez-icc-tribunal-bans-gazprom-placing-gas-dispute-russian-court-2024-05-24/) (Accessed: 3 March 2025).
 
-Wikipedia (2025) *2022–2023 Russia–European Union gas dispute*. [Available at](https://en.wikipedia.org/wiki/2022–2023_Russia–European_Union_gas_dispute) (Accessed: 3 March 2025).
+- Wikipedia (2025) *2022–2023 Russia–European Union gas dispute*. [Available at](https://en.wikipedia.org/wiki/2022–2023_Russia–European_Union_gas_dispute) (Accessed: 3 March 2025).
