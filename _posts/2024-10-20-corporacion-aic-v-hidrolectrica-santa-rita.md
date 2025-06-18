@@ -88,9 +88,9 @@ Because when disputes hit—when projects stall or collapse—the strength of a 
 
 ## References
 
-- Hidroeléctrica Santa Rita S.A. v. Corporación AIC, SA (2024) 66 F.4th 876 (11th Cir. Oct. 16 2024). Available at: [Justia](https://law.justia.com/cases/federal/appellate-courts/ca11/23-12519/23-12519-2024-10-16/) (Accessed: 20 October 2024).
+- Hidroeléctrica Santa Rita S.A. v. Corporación AIC, SA (2024) 66 F.4th 876 (11th Cir. Oct. 16 2024). Available at: [Justia](https://law.justia.com/cases/federal/appellate-courts/ca11/23-12519/23-12519-2024-10-16.html) (Accessed: 20 October 2024).
 
 - SGR Insights (2024) ‘Eleventh Circuit’s Latest Decision in Corporacion AIC Highlights Narrow Review of International Arbitration Awards’, *SGR Law Client Alert*, 23 October. Available at: [SGR Law](https://www.sgrlaw.com/client-alerts/hidroelectrica-eleventh-circuit-case/) (Accessed: 20 October 2024).
 
-- Industrial Risk Insurers v. M.A.N. Gutehoffnungshütte GmbH (1995) 141 F.3d 1434 (11th Cir.).
+- Industrial Risk Insurers v. M.A.N. Gutehoffnungshütte GmbH (1995) 141 F.3d 1434 (11th Cir.) Available at: [VLEX](https://case-law.vlex.com/vid/industrial-risk-insurers-v-893805180) (Accessed: 20 October 2024).
 
