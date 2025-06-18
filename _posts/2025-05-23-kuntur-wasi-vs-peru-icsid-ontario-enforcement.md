@@ -109,7 +109,7 @@ And maybe, just maybe, next time a state considers ignoring an ICSID award… so
 - Daily Jus (2025) ‘Ontario Court Enforces USD 91 Million ICSID Award Against Peru’. [Available at](https://dailyjus.com/world/2025/05/arbitration-aftermath-may-22-2025) (Accessed: 23 May 2025).
 - Dietrich J. (2025) Endorsement Slip, Ontario Superior Court of Justice, 15 May.[Available at](https://www.italaw.com/sites/default/files/case-documents/italaw1826828.pdf) (Accessed: 16 May 2025). 
 - Global Arbitration Review (2025) ‘Canadian court enforces airport investor's award against Peru’. [Available at](https://globalarbitrationreview.com/article/canadian-court-enforces-airport-investors-award-against-peru) (Accessed: 17 May 2025).
-- Government of Canada (2008) *Settlement of International Investment Disputes Act*, S.C. 2008, c. 8. [Available at](https://laws.justice.gc.ca/eng/AnnualStatutes/2008_8/FullText.html) (Accessed: 18 June 2025).
+- Government of Canada (2008) *Settlement of International Investment Disputes Act*, S.C. 2008, c. 8. [Available at](https://laws.justice.gc.ca/eng/AnnualStatutes/2008_8/FullText.html) (Accessed: 16 May 2025).
 - ICSID (1965) *ICSID Convention*. [Available at](https://icsid.worldbank.org/sites/default/files/ICSID%20Convention%20English.pdf) (Accessed: 16 May 2025).
 - ICSID (2024) *Sociedad Aeroportuaria Kuntur Wasi S.A. and Corporación América S.A. v. Republic of Peru*, Award. [Available at](https://jusmundi.com/en/document/decision/en-sociedad-aeroportuaria-kuntur-wasi-s-a-and-corporacion-america-s-a-v-republic-of-peru-award-thursday-9th-may-2024) (Accessed: 16 May 2025).
 
