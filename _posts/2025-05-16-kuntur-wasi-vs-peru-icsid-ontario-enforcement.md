@@ -15,11 +15,11 @@ author: Berke Celikel
 
 ### A small story about silence
 
-Picture the scene: **May 15 2025, Toronto**, drizzly and unremarkable. Inside the Ontario Superior Court of Justice, Justice Jane Dietrich signs an endorsement slip the length of a postcard. On its face, the court isn’t doing anything dramatic—merely “recognising” an award. Yet that slip transforms a stack of arbitral paper into a Canadian judgment worth more than **US $91 million plus running interest** ([Dietrich J., 2025](https://jusmundi.com/en/document/decision/en-sociedad-aeroportuaria-kuntur-wasi-s-a-and-corporacion-america-s-a-v-republic-of-peru-endorsement-slip-ontario-superior-court-of-justice-thursday-15th-may-2025); see also [Daily Jus, 2025](https://dailyjus.com/world/2025/05/arbitration-aftermath-may-22-2025)).
+Picture the scene: **May 15 2025, Toronto**, drizzly and unremarkable. Inside the Ontario Superior Court of Justice, Justice Jane Dietrich signs an endorsement slip the length of a postcard. On its face, the court isn’t doing anything dramatic—merely “recognising” an award. Yet that slip transforms a stack of arbitral paper into a Canadian judgment worth more than **US $91 million plus running interest** (Dietrich J., 2025).
 
 The respondent, the **Republic of Peru**, isn’t in the room. It was properly served back in January, lawyers say, but no one filed a defence, no one even asked for more time. Silence can be eloquent—here, it is devastating.
 
-Under Canada’s **Settlement of International Investment Disputes Act** (S.C. 2008, c. 8), Ontario judges must treat a certified ICSID award “as if it were a final judgment of a court in that State” ([Government of Canada, 2008](https://laws-lois.justice.gc.ca/eng/acts/S-18.7/)). In plainer words: the moment the certificate arrives, the gavel is almost an after-thought.
+Under Canada’s **Settlement of International Investment Disputes Act** (S.C. 2008, c. 8), Ontario judges must treat a certified ICSID award “as if it were a final judgment of a court in that State” (Government of Canada, 2008). In plainer words: the moment the certificate arrives, the gavel is almost an after-thought.
 
 *Was Peru hoping the matter would fade?* Perhaps. Governments occasionally gamble that distance and diplomatic immunity make bad debts evaporate. But ICSID awards have long memories, and investors—especially those facing nine-digit write-downs—rarely go gently.
 
@@ -27,9 +27,9 @@ Under Canada’s **Settlement of International Investment Disputes Act** (S.C. 2
 
 ### The airport that never quite took off
 
-Rewind to **Cusco**—gateway to Machu Picchu, emblem of Andean tourism. Back in **2014**, Peru inked a concession with *Sociedad Aeroportuaria Kuntur Wasi* (a Peruvian-Argentine consortium led by **Corporación América**) to build the **Chinchero International Airport**. Less than three years later, citing construction delays and political headwinds, the government tore up the deal ([ICSID Case No. ARB/18/27](https://jusmundi.com/en/document/decision/en-sociedad-aeroportuaria-kuntur-wasi-s-a-and-corporacion-america-s-a-v-republic-of-peru-award-thursday-9th-may-2024)).
+Rewind to **Cusco**—gateway to Machu Picchu, emblem of Andean tourism. Back in **2014**, Peru inked a concession with *Sociedad Aeroportuaria Kuntur Wasi* (a Peruvian-Argentine consortium led by **Corporación América**) to build the **Chinchero International Airport**. Less than three years later, citing construction delays and political headwinds, the government tore up the deal (ICSID Case No. ARB/18/27).
 
-Investors cried foul, invoked the **Argentina–Peru BIT**, and marched to Washington D.C. to file at ICSID in **July 2018**. After years of filings, hearings, and evidence, the tribunal ruled in May 2024: **US $91 million plus interest** awarded to claimants ([Reuters, 2024](https://www.reuters.com/world/americas/peru-ordered-pay-concessionaire-kuntur-wasi-us91mn-2024-05-09/); [BNAmericas, 2024](https://www.bnamericas.com/en/news/peru-ordered-to-pay-over-us90mn-in-chinchero-airport-arbitration)).
+Investors cried foul, invoked the **Argentina–Peru BIT**, and marched to Washington D.C. to file at ICSID in **July 2018**. After years of filings, hearings, and evidence, the tribunal ruled in May 2024: **US $91 million plus interest** awarded to claimants (Reuters, 2024; BNAmericas, 2024).
 
 No annulment request followed. No appeals. Just—nothing.
 
