@@ -4,7 +4,7 @@ title: "When Coal Meets Clause: The AET Arbitration That Could Rewire Energy Pol
 subtitle: "Balancing climate policy and investment protection in the Energy Charter era"
 cover-img: /assets/img/kohle.png
 thumbnail-img: /assets/img/kohle.png
-excerpt: "A deep dive into *Azienda Elettrica Ticinese v Germany*, a landmark arbitration over Germany’s coal phase-out and what it means for climate-conscious investment protection."
+excerpt: "A deep dive into Azienda Elettrica Ticinese v Germany, a landmark arbitration over Germany’s coal phase-out and what it means for climate-conscious investment protection."
 tags: [ECT, Arbitration, Climate Policy, Energy, Investor–State, Germany, Switzerland]
 author: Berke Celikel
 ---
