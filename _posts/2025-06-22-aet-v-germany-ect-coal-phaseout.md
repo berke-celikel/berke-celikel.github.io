@@ -9,8 +9,6 @@ tags: [ECT, Arbitration, Climate Policy, Energy, Investor–State, Germany, Swit
 author: Berke Celikel
 ---
 
-# *When Coal Meets Clause: The AET Arbitration That Could Rewire Energy Policy in Europe*
-
 On the surface, the case of *Azienda Elettrica Ticinese v Germany* might look like just another investor-state spat—an arbitration under the Energy Charter Treaty (ECT), lodged by a Swiss public utility unhappy with losing part of its stake in a coal plant. But beneath that legalese is something more intriguing, more charged. This isn’t only about investment-protection clauses or how compensation gets calculated. It’s about what happens when a treaty from the fossil-fuel age runs headlong into twenty-first-century climate ambition.
 
 It’s also, if we’re being honest, a test. Of how far a state can go in decarbonising its economy without getting punished in international arbitration. And maybe, just maybe, a peek into the strange entanglements of international law, energy policy, and the quiet—but growing—presence of scientific evidence in legal disputes.
