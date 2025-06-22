@@ -25,7 +25,7 @@ AET didn’t take this lightly. The arbitration, now registered as ICSID Case No
 * **Protection against indirect expropriation**  
 * **Denial of justice**
 
-In short, AET alleges that it’s being squeezed out of a functioning asset without fair treatment or compensation—and worse, that Germany didn’t provide a real legal remedy when challenged in local courts (italaw, 2024).
+In short, AET alleges that it’s being squeezed out of a functioning asset without fair treatment or compensation—and worse, that Germany didn’t provide a real legal remedy when challenged in local courts (Italaw, 2024).
 
 Now, it’s worth noting that Germany withdrew from the ECT in 2022. But thanks to the treaty’s infamous “sunset clause,” protections linger for twenty more years—enough time for cases like this one to unfold well into the 2040s.
 
@@ -43,7 +43,7 @@ What complicates things further—what makes this more than a black-and-white po
 
 Germany’s law includes a rather curious mechanism: reverse auctions. Essentially, coal-plant operators bid to see who can shut down for the lowest compensation. The idea is elegant—at least in theory. It keeps costs down for taxpayers and prioritises climate goals. And it’s overseen by the *Bundesnetzagentur*, the national energy regulator.
 
-But here’s the rub: AET, as a minority investor, claims the auction process didn’t—and couldn’t—adequately reflect its stake, nor the value of its lost earnings (Table.Briefings, 2025). Participation wasn’t clear, compensation wasn’t guaranteed, and, according to AET, the whole process lacked transparency.
+But here’s the rub: AET, as a minority investor, claims the auction process didn’t—and couldn’t—adequately reflect its stake, nor the value of its lost earnings (Table Briefings, 2025). Participation wasn’t clear, compensation wasn’t guaranteed, and, according to AET, the whole process lacked transparency.
 
 Germany, in turn, leans heavily on the idea that these auctions are fair, competitive, and applied uniformly. No one, they argue, is being singled out. And in any case, regulating in the public interest—particularly for something as existential as climate change—is well within the state’s rights.
 
@@ -63,7 +63,7 @@ The Energy Charter Treaty, despite being obscure outside legal and policy circle
 
 Article 10(1) of the ECT—the FET clause—is notoriously broad. It requires states to provide a transparent, predictable legal environment. That sounds reasonable. But in practice, it’s often invoked by investors when states, responding to economic, political, or environmental shifts, change the rules mid-game.
 
-Then there’s Article 13(1), covering expropriation. Not physical seizure, necessarily, but actions that deprive an investor of economic value. Think of it as compensation for lost expectations. AET is leaning heavily on this provision, arguing that the coal plant’s closure effectively extinguishes its return on investment—without just remedy (italaw, 2024).
+Then there’s Article 13(1), covering expropriation. Not physical seizure, necessarily, but actions that deprive an investor of economic value. Think of it as compensation for lost expectations. AET is leaning heavily on this provision, arguing that the coal plant’s closure effectively extinguishes its return on investment—without just remedy (Italaw, 2024).
 
 Germany, predictably, pushes back. It invokes the so-called **police powers doctrine**, a principle in international law that allows states to regulate—without paying compensation—so long as the regulation is non-discriminatory, proportionate, and in the public interest. In the age of climate change, that’s a potent shield.
 
