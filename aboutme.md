@@ -9,7 +9,7 @@ Born in Istanbul and living in Germany since 2019, I’ve pursued an academic an
 ---
 
 ## ⚖️ What Drives Me  
-I’m especially focused on international commercial law, with a growing interest in Investor-State Dispute Settlement (ISDS) and its role in cross-border dispute resolution. I’m drawn to the complexity of global legal disputes and the unique challenges they pose—particularly when public and private interests intersect across jurisdictions.
+I’m especially focused on international commercial law, with a growing interest in Investor-State Dispute Settlement (ISDS). I’m drawn to the complexity of global legal disputes and the unique challenges they pose—particularly when public and private interests intersect across jurisdictions.
 
 ---
 
