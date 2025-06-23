@@ -4,9 +4,11 @@ title: Blog
 permalink: /blog/
 ---
 
-**Welcome to my blog—a space dedicated to international arbitration and commercial law.**
+**Welcome to my blog—where I focus on Investor-State Dispute Settlement (ISDS) within the wider framework of international arbitration and commercial law.**
 
-Here you’ll find reflections on notable arbitral awards, treaty interpretation, and developments in the legal principles shaping global commerce. Whether you’re a practitioner, academic, or policy observer, this blog aims to offer clear and carefully researched insights grounded in international legal practice.
+Here you’ll find plain-spoken takes on the latest ISDS awards, shifts in treaty wording and interpretation, and the legal twists that steer global business and investment. When it helps put things in context, I’ll dip into related corners of public international law too.
+
+The goal is to make complex issues understandable, without losing sight of how these rules play out in the real world.
 
 ---
 
