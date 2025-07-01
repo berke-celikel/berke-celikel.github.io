@@ -33,7 +33,7 @@ permalink: /cv/
 <div class="header-block">
 
 Cologne, NRW 50968 • Germany  
-berkecelikel@outlook.de • +49 172 2797327  
+berkecelikel@outlook.de • [+49 172 2797327](https://wa.me/491722797327) 
 [linkedin.com/in/berke-celikel/](https://linkedin.com/in/berke-celikel/)  
 [www.berkecelikel.com](http://www.berkecelikel.com)
 
