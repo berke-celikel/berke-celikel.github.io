@@ -3,7 +3,6 @@ layout: page
 title: Berke Celikel
 permalink: /cv/
 ---
-
 <style>
 .download-btn {
   display: inline-block;
@@ -13,11 +12,20 @@ permalink: /cv/
   color: white;
   text-decoration: none;
   border-radius: 5px;
+  font-weight: bold;
 }
 .download-btn:hover {
   background-color: #005f99;
 }
+.header-block {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 40px auto;
+  padding-top: 20px;
+}
 </style>
+<div class="header-block">
+  <a class="download-btn" href="/assets/pdfs/Berke_Celikel_CV.pdf" download>Download CV (PDF)</a>
 
 <div style="text-align: center; max-width: 700px; margin: 0 auto; padding: 20px 0;">
   Cologne, NRW 50968 • Germany<br>
