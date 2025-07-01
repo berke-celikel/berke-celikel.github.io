@@ -59,7 +59,7 @@ permalink: /cv/
 ## EDUCATION
 
 **UNIVERSITY OF BONN**, Bonn, Germany  
-*Law and Economics (LL.B.) • 2022 – 2024*
+**Law and Economics (LL.B.)** • *2022 – 2024*
 
 <div class="tight-list">
 <ul>
