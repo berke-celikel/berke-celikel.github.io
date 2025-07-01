@@ -8,7 +8,7 @@ permalink: /cv/
 .download-btn {
   display: inline-block;
   padding: 10px 20px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   background-color: #007acc;
   color: white;
   text-decoration: none;
@@ -21,22 +21,28 @@ permalink: /cv/
 .header-block {
   text-align: center;
   max-width: 700px;
-  margin: 0 auto 40px auto;
-  padding-top: 20px;
+  margin: 0 auto 20px auto;
+  padding-top: 10px;
+}
+.header-block a {
+  color: #007acc;
+  text-decoration: none;
+}
+.header-block a:hover {
+  text-decoration: underline;
 }
 </style>
 
-<div class="header-block"></div>
-
-[Download CV (PDF)](/assets/pdfs/Berke_Celikel_CV.pdf){: .download-btn }
-
 <div class="header-block">
+  <a class="download-btn" href="/assets/img/Berke_Celikel_CV.pdf" download>Download CV (PDF)</a>
 
-Cologne, NRW 50968 • Germany  
-berkecelikel@outlook.de • [+49 172 2797327](https://wa.me/491722797327) 
-[linkedin.com/in/berke-celikel/](https://linkedin.com/in/berke-celikel/)  
-[www.berkecelikel.com](http://www.berkecelikel.com)
-
+  <div style="margin-top: 10px;">
+    Cologne, NRW 50968 • Germany<br>
+    <a href="mailto:berkecelikel@outlook.de">berkecelikel@outlook.de</a> •
+    <a href="https://wa.me/491722797327">+49 172 2797327</a><br>
+    <a href="https://linkedin.com/in/berke-celikel/">linkedin.com/in/berke-celikel/</a><br>
+    <a href="http://www.berkecelikel.com">www.berkecelikel.com</a>
+  </div>
 </div>
 
 <hr>
