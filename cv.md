@@ -19,13 +19,26 @@ permalink: /cv/
   background-color: #005f99;
   color: white !important;
 }
+.header-block {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 30px auto;
+  padding-top: 10px;
+}
+.header-block a {
+  color: #007acc;
+  text-decoration: none;
+}
+.header-block a:hover {
+  text-decoration: underline;
+}
 </style>
 
 <div class="header-block">
   <a class="download-btn" href="/assets/img/Berke_Celikel_CV.pdf" download>Download CV (PDF)</a>
 
   <div style="margin-top: 10px;">
-    Cologne, NRW 50968 Germany<br>
+    Cologne, NRW 50968 • Germany<br>
     <a href="mailto:berkecelikel@outlook.de">berkecelikel@outlook.de</a> •
     <a href="https://wa.me/491722797327">+49 172 2797327</a><br>
     <a href="https://linkedin.com/in/berke-celikel/">linkedin.com/in/berke-celikel/</a><br>
