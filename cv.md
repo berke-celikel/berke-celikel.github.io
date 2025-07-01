@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Berke Celikel
 permalink: /cv/
 ---
 
@@ -19,13 +19,12 @@ permalink: /cv/
 }
 </style>
 
-<a class="download-btn" href="/assets/img/Berke_Celikel_CV.pdf" download>Download CV (PDF)</a>
-
-BERKE CELIKEL  
-Cologne, NRW 50968 • Germany  
-berkecelikel@outlook.de • +49 172 2797327  
-[linkedin.com/in/berke-celikel/](https://linkedin.com/in/berke-celikel/)  
-[www.berkecelikel.com](http://www.berkecelikel.com)  
+<div style="text-align: center; max-width: 700px; margin: 0 auto; padding: 20px 0;">
+  Cologne, NRW 50968 • Germany<br>
+  berkecelikel@outlook.de • +49 172 2797327<br>
+  <a href="https://linkedin.com/in/berke-celikel/">linkedin.com/in/berke-celikel/</a><br>
+  <a href="http://www.berkecelikel.com">www.berkecelikel.com</a>
+</div>
 
 ---
 
