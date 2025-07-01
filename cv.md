@@ -52,6 +52,7 @@ permalink: /cv/
 
 **UNIVERSITY OF BONN**, Bonn, Germany  
 **Law and Economics (LL.B.)** • *2022 – 2024*
+
 • Transferred from LMU Munich to pursue interdisciplinary legal studies with an economics focus  
 • Thesis (with distinction): Economic Analysis of the EU Retail Investment Strategy  
 • Minor GPA (Economics): 3.7/4.0  
